@@ -1,4 +1,68 @@
-[{
-"id": 1,
-"title": "hello daar"
-}]
+{
+  "maandag": {
+    "wed1": {
+      "thuisTeam": "Ajax",
+      "uitTeam": "Real Madrid",
+      "zender": "Ziggo"
+    },
+    "wed2": {
+      "thuisTeam": "AZ",
+      "uitTeam": "Liverpool",
+      "zender": "NPO1"
+    },
+    "wed3": {
+      "thuisTeam": "FCknudde",
+      "uitTeam": "FC Bacrcelona",
+      "zender": "FOX3"
+    },
+    "wed4": {
+      "thuisTeam": "Ajax",
+      "uitTeam": "Real Madrid",
+      "zender": "Ziggo"
+    }
+  },
+  "dinsdag": {
+    "wed1": {
+      "thuisTeam": "PSV",
+      "uitTeam": "Real B",
+      "zender": "FOX 1"
+    },
+    "wed2": {
+      "thuisTeam": "ADO",
+      "uitTeam": "Liverpool",
+      "zender": "NPO3"
+    },
+    "wed3": {
+      "thuisTeam": "FCknudde",
+      "uitTeam": "FC Bacrcelona",
+      "zender": "FOX3"
+    },
+    "wed4": {
+      "thuisTeam": "Ajax",
+      "uitTeam": "Real Madrid",
+      "zender": "Ziggo"
+    }
+  },
+  "woensdag": {
+    "wed1": {
+      "thuisTeam": "Ajax",
+      "uitTeam": "Real Madrid",
+      "zender": "Ziggo"
+    },
+    "wed2": {
+      "thuisTeam": "AZ",
+      "uitTeam": "Liverpool",
+      "zender": "NPO1"
+    },
+    "wed3": {
+      "thuisTeam": "FC supatoll",
+      "uitTeam": "FC Bacrcelona",
+      "zender": "FOX9"
+    },
+    "wed4": {
+      "thuisTeam": "Ajax",
+      "uitTeam": "Real Madrid",
+      "zender": "Ziggo Golf"
+    }
+  }
+}
