@@ -1,6 +1,14 @@
 {
+  "Wedstrijd": {
     "datum": 100119,
     "thuisTeam": "Ajax",
     "uitTeam": "Real Madrid",
     "zender": "Ziggo"
+  },
+  "Wedstrijd2": {
+    "datum": 110119,
+    "thuisTeam": "AZ",
+    "uitTeam": "PSV",
+    "zender": "Fox1"
+  }
 }
