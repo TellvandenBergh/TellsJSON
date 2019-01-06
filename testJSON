@@ -1,12 +1,14 @@
 [
   {
     "datum": 100119,
+    "tijd": "20:45",
     "thuisTeam": "Ajax",
     "uitTeam": "Real Madrid",
     "zender": "Ziggo"
   },
   {
     "datum": 110119,
+    "tijd": "20:45",
     "thuisTeam": "AZ",
     "uitTeam": "Manchester United",
     "zender": "Fox1"
