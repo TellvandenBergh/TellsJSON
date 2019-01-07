@@ -2,15 +2,43 @@
   {
     "datum": 100119,
     "tijd": "20:45",
-    "thuisTeam": "Ajax",
-    "uitTeam": "Real Madrid",
+    "thuisTeam": "AJA",
+    "uitTeam": "RMA",
     "zender": "Ziggo"
   },
   {
     "datum": 110119,
     "tijd": "20:45",
     "thuisTeam": "AZ",
-    "uitTeam": "ADO Den Haag",
+    "uitTeam": "ADO",
     "zender": "Fox1"
+  },
+  {
+    "datum": 110119,
+    "tijd": "13:00",
+    "thuisTeam": "MANU",
+    "uitTeam": "PSV",
+    "zender": "ZIGGO"
+  },
+  {
+    "datum": 110119,
+    "tijd": "15:00",
+    "thuisTeam": "FCB",
+    "uitTeam": "VAL",
+    "zender": "Fox1"
+  },
+  {
+    "datum": 110119,
+    "tijd": "20:45",
+    "thuisTeam": "RODA",
+    "uitTeam": "FCU",
+    "zender": "Fox3"
+  },
+  {
+    "datum": 110119,
+    "tijd": "20:45",
+    "thuisTeam": "AZ",
+    "uitTeam": "ADO Den Haag",
+    "zender": "Fox2"
   }
 ]
