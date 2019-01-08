@@ -1,44 +1,44 @@
 [
   {
     "datum": "1/8/19",
-    "tijd": "20:45",
-    "thuisTeam": "AJA",
-    "uitTeam": "RMA",
-    "zender": "Ziggo"
-  },
-  {
-    "datum": "1/8/19",
-    "tijd": "20:45",
-    "thuisTeam": "AZ",
-    "uitTeam": "ADO",
-    "zender": "Fox1"
-  },
-  {
-    "datum": "1/8/19",
-    "tijd": "13:00",
-    "thuisTeam": "MANU",
-    "uitTeam": "PSV",
-    "zender": "ZIGGO"
+    "tijd": "21:00",
+    "thuisTeam": "TOT",
+    "uitTeam": "CHE",
+    "zender": "Ziggo Sport"
   },
   {
     "datum": "1/9/19",
-    "tijd": "15:00",
-    "thuisTeam": "FCB",
-    "uitTeam": "VAL",
-    "zender": "Fox1"
+    "tijd": "19:30",
+    "thuisTeam": "GIR",
+    "uitTeam": "AthM",
+    "zender": "Ziggo Sport Voetbal"
   },
   {
     "datum": "1/9/19",
     "tijd": "20:45",
-    "thuisTeam": "RODA",
-    "uitTeam": "FCU",
-    "zender": "Fox3"
+    "thuisTeam": "CITY",
+    "uitTeam": "BUA",
+    "zender": "Ziggo Sport"
+  },
+  {
+    "datum": "1/9/19",
+    "tijd": "21:30",
+    "thuisTeam": "REAL",
+    "uitTeam": "LEG",
+    "zender": "Ziggo Sport"
   },
   {
     "datum": "1/10/19",
-    "tijd": "20:45",
-    "thuisTeam": "AZ",
-    "uitTeam": "ADO Den Haag",
-    "zender": "Fox2"
+    "tijd": "19:30",
+    "thuisTeam": "BIL",
+    "uitTeam": "SEV",
+    "zender": "Ziggo Sport"
+  },
+  {
+    "datum": "1/11/19",
+    "tijd": "21:40",
+    "thuisTeam": "LU",
+    "uitTeam": "DCO",
+    "zender": "Ziggo Sport"
   }
 ]
