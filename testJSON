@@ -1,44 +1,58 @@
 [
   {
-    "datum": "08/01/19",
-    "tijd": "21:00",
-    "thuisTeam": "TOT",
-    "uitTeam": "CHE",
-    "zender": "Ziggo Sport"
-  },
-  {
     "datum": "09/01/19",
     "tijd": "19:30",
-    "thuisTeam": "Manchester United",
-    "uitTeam": "AMA",
+    "thuisTeam": "Girona",
+    "uitTeam": "Atletico Madrid",
     "zender": "Ziggo Sport Voetbal"
   },
   {
     "datum": "09/01/19",
     "tijd": "20:45",
-    "thuisTeam": "Athletico de madrid",
-    "uitTeam": "AJAX",
+    "thuisTeam": "Manchester City",
+    "uitTeam": "Burton",
     "zender": "Ziggo Sport"
   },
   {
     "datum": "09/01/19",
     "tijd": "21:30",
-    "thuisTeam": "REA",
-    "uitTeam": "LEG",
+    "thuisTeam": "Real Madrid",
+    "uitTeam": "Leganes",
     "zender": "Ziggo Sport"
   },
   {
     "datum": "10/01/19",
     "tijd": "19:30",
-    "thuisTeam": "BIL",
-    "uitTeam": "SEV",
+    "thuisTeam": "Athletic Bilbao",
+    "uitTeam": "Sevilla",
+    "zender": "Ziggo Sport"
+  },
+  {
+    "datum": "10/01/19",
+    "tijd": "21:30",
+    "thuisTeam": "Levante",
+    "uitTeam": "FC Barcelona",
     "zender": "Ziggo Sport"
   },
   {
     "datum": "11/01/19",
-    "tijd": "21:40",
-    "thuisTeam": "LU",
-    "uitTeam": "DCO",
+    "tijd": "01:10",
+    "thuisTeam": "Ajax",
+    "uitTeam": "Flamengo",
     "zender": "Ziggo Sport"
+  },
+  {
+    "datum": "11/01/19",
+    "tijd": "17:00",
+    "thuisTeam": "Feyenoord",
+    "uitTeam": "Borussia Dortmund",
+    "zender": "Fox Sports 1"
+  },
+  {
+    "datum": "11/01/19",
+    "tijd": "21:00",
+    "thuisTeam": "Rayo Vallecano",
+    "uitTeam": "Celta de Vigo",
+    "zender": "Ziggo Sport Voetbal"
   }
 ]
