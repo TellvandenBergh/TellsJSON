@@ -127,6 +127,20 @@
   },
   {
     "datum": "13/01/19",
+    "tijd": "14:30",
+    "thuisTeam": "FC Dordrecht",
+    "uitTeam": "FC Den Bosch",
+    "zender": "Fox Sports 1"
+  },
+  {
+    "datum": "13/01/19",
+    "tijd": "14:30",
+    "thuisTeam": "FC Oss",
+    "uitTeam": "RKC Waalwijk",
+    "zender": "Fox Sports 7"
+  },
+  {
+    "datum": "13/01/19",
     "tijd": "16:15",
     "thuisTeam": "Athletic Bilbao",
     "uitTeam": "Sevilla",
