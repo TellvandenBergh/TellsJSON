@@ -1,170 +1,74 @@
 [
   {
-    "datum": "09/01/19",
-    "tijd": "19:30",
-    "thuisTeam": "Girona",
-    "uitTeam": "Atletico Madrid",
-    "zender": "Ziggo Sport Voetbal"
-  },
-  {
-    "datum": "09/01/19",
-    "tijd": "20:45",
-    "thuisTeam": "Manchester City",
-    "uitTeam": "Burton",
-    "zender": "Ziggo Sport"
-  },
-  {
-    "datum": "09/01/19",
-    "tijd": "21:30",
-    "thuisTeam": "Real Madrid",
-    "uitTeam": "Leganes",
-    "zender": "Ziggo Sport"
-  },
-  {
-    "datum": "10/01/19",
-    "tijd": "19:30",
-    "thuisTeam": "Athletic Bilbao",
-    "uitTeam": "Sevilla",
-    "zender": "Ziggo Sport"
-  },
-  {
-    "datum": "10/01/19",
-    "tijd": "21:30",
-    "thuisTeam": "Levante",
-    "uitTeam": "FC Barcelona",
-    "zender": "Ziggo Sport"
-  },
-  {
-    "datum": "11/01/19",
-    "tijd": "01:10",
-    "thuisTeam": "Ajax",
-    "uitTeam": "Flamengo",
-    "zender": "Ziggo Sport"
-  },
-  {
-    "datum": "11/01/19",
-    "tijd": "17:00",
-    "thuisTeam": "Feyenoord",
-    "uitTeam": "Borussia Dortmund",
-    "zender": "Fox Sports 1"
-  },
-  {
-    "datum": "11/01/19",
-    "tijd": "21:00",
-    "thuisTeam": "Rayo Vallecano",
-    "uitTeam": "Celta de Vigo",
-    "zender": "Ziggo Sport Voetbal"
-  },
-  {
-    "datum": "12/01/19",
-    "tijd": "13:30",
-    "thuisTeam": "West Ham United",
-    "uitTeam": "Arsenal",
-    "zender": "Ziggo Sport"
-  },
-  {
-    "datum": "12/01/19",
-    "tijd": "16:00",
-    "thuisTeam": "Brighton & Hove Albion",
-    "uitTeam": "Liverpool",
-    "zender": "Ziggo Sport"
-  },
-  {
-    "datum": "12/01/19",
-    "tijd": "16:15",
-    "thuisTeam": "Valencia",
-    "uitTeam": "Real Valladolid",
-    "zender": "Ziggo Sport Voetbal"
-  },
-  {
-    "datum": "12/01/19",
-    "tijd": "16:30",
-    "thuisTeam": "Sporting Lissabon",
-    "uitTeam": "FC Porto",
-    "zender": "Ziggo Sport"
-  },
-  {
-    "datum": "12/01/19",
-    "tijd": "18:30",
-    "thuisTeam": "Chelsea",
-    "uitTeam": "Newcastle United",
-    "zender": "Ziggo Sport Voetbal"
-  },
-  {
-    "datum": "12/01/19",
-    "tijd": "19:00",
-    "thuisTeam": "Ajax",
-    "uitTeam": "Sao Paulo",
-    "zender": "Ziggo Sport"
-  },
-  {
-    "datum": "12/01/19",
-    "tijd": "20:45",
-    "thuisTeam": "Villarreal CF",
-    "uitTeam": "Getafe",
-    "zender": "Ziggo Sport Voetbal"
-  },
-  {
     "datum": "13/01/19",
     "tijd": "12:00",
     "thuisTeam": "Atletico Madrid",
     "uitTeam": "Levante",
-    "zender": "Ziggo Sport"
+    "zender": "Ziggo Sport",
+    "leaugue": "LL"
   },
   {
     "datum": "13/01/19",
     "tijd": "14:30",
     "thuisTeam": "Roda JC",
     "uitTeam": "Go Ahead Eagles",
-    "zender": "Fox Sports 2"
+    "zender": "Fox Sports 2",
+    "leaugue": "ER"
   },
   {
     "datum": "13/01/19",
     "tijd": "14:30",
     "thuisTeam": "Jong Ajax",
     "uitTeam": "Jong PSV",
-    "zender": "Fox Sports 3"
+    "zender": "Fox Sports 3",
+    "leaugue": "CL"
   },
   {
     "datum": "13/01/19",
     "tijd": "14:30",
     "thuisTeam": "FC Dordrecht",
     "uitTeam": "FC Den Bosch",
-    "zender": "Fox Sports 1"
+    "zender": "Fox Sports 1",
+    "leaugue": "PL"
   },
   {
     "datum": "13/01/19",
     "tijd": "14:30",
     "thuisTeam": "FC Oss",
     "uitTeam": "RKC Waalwijk",
-    "zender": "Fox Sports 7"
+    "zender": "Fox Sports 7",
+    "leaugue": "EL"
   },
   {
     "datum": "13/01/19",
     "tijd": "16:15",
     "thuisTeam": "Athletic Bilbao",
     "uitTeam": "Sevilla",
-    "zender": "Ziggo Sport Voetbal"
+    "zender": "Ziggo Sport Voetbal",
+    "leaugue": "KD"
   },
   {
     "datum": "13/01/19",
     "tijd": "17:30",
     "thuisTeam": "Tottenham Hotspur",
     "uitTeam": "Manchester United",
-    "zender": "Ziggo Sport"
+    "zender": "Ziggo Sport",
+    "leaugue": "LL"
   },
   {
     "datum": "13/01/19",
     "tijd": "18:30",
     "thuisTeam": "FC Barcelona",
     "uitTeam": "Eibar",
-    "zender": "Ziggo Sport Voetbal"
+    "zender": "Ziggo Sport Voetbal",
+    "leaugue": "LL"
   },
   {
     "datum": "13/01/19",
     "tijd": "20:45",
     "thuisTeam": "Real Betis Sevilla",
     "uitTeam": "Real Madrid",
-    "zender": "Ziggo Sport"
+    "zender": "Ziggo Sport",
+    "leaugue": "LL"
   }
 ]
