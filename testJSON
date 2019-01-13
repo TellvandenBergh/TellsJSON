@@ -70,5 +70,45 @@
     "uitTeam": "Real Madrid",
     "zender": "Ziggo Sport",
     "leaugue": "LL"
+  },
+  {
+    "datum": "14/01/19",
+    "tijd": "21:00",
+    "thuisTeam": "Manchester City",
+    "uitTeam": "Wolverhampton Wanderers",
+    "zender": "Ziggo Sport",
+    "leaugue": "PL"
+  },
+  {
+    "datum": "15/01/19",
+    "tijd": "20:45",
+    "thuisTeam": "Blackburn Rovers",
+    "uitTeam": "Newcastle United",
+    "zender": "Ziggo Sport",
+    "leaugue": "FA"
+  },
+  {
+    "datum": "16/01/19",
+    "tijd": "19:30",
+    "thuisTeam": "Atletico Madrid",
+    "uitTeam": "Girona",
+    "zender": "Ziggo Sport",
+    "leaugue": "CR"
+  },
+  {
+    "datum": "16/01/19",
+    "tijd": "21:30",
+    "thuisTeam": "Leganes",
+    "uitTeam": "Real Madrid",
+    "zender": "Ziggo Sport",
+    "leaugue": "CR"
+  },
+  {
+    "datum": "17/01/19",
+    "tijd": "21:30",
+    "thuisTeam": "FC Barcelona",
+    "uitTeam": "Levante",
+    "zender": "Ziggo Sport",
+    "leaugue": "CR"
   }
 ]
