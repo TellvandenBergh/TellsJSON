@@ -46,5 +46,85 @@
     "uitTeam": "FC Bayern Munchen",
     "zender": "Fox Sports 4",
     "leaugue": "BL"
+  },
+  {
+    "datum": "19/01/19",
+    "tijd": "13:30",
+    "thuisTeam": "Wolverhampton",
+    "uitTeam": "Leicester City",
+    "zender": "Fox Sports",
+    "leaugue": "PL"
+  },
+  {
+    "datum": "19/01/19",
+    "tijd": "15:00",
+    "thuisTeam": "AS Roma",
+    "uitTeam": "Torino",
+    "zender": "Ziggo Sport Extra",
+    "leaugue": "SA"
+  },
+  {
+    "datum": "19/01/19",
+    "tijd": "15:30",
+    "thuisTeam": "VfB Stuttgart",
+    "uitTeam": "Mainz",
+    "zender": "Fox Sports 7",
+    "leaugue": "BL"
+  },
+  {
+    "datum": "19/01/19",
+    "tijd": "15:30",
+    "thuisTeam": "Eintracht Frankfurt",
+    "uitTeam": "Freiburg",
+    "zender": "Fox Sports 6",
+    "leaugue": "BL"
+  },
+  {
+    "datum": "19/01/19",
+    "tijd": "15:30",
+    "thuisTeam": "Hanover",
+    "uitTeam": "Werder Bremen",
+    "zender": "Fox Sports 5",
+    "leaugue": "BL"
+  },
+  {
+    "datum": "19/01/19",
+    "tijd": "16:00",
+    "thuisTeam": "Liverpool",
+    "uitTeam": "Crystal Palace",
+    "zender": "Ziggo Sport",
+    "leaugue": "PL"
+  },
+  {
+    "datum": "19/01/19",
+    "tijd": "16:15",
+    "thuisTeam": "Real Madrid",
+    "uitTeam": "Sevilla",
+    "zender": "Ziggo Sport Voetbal",
+    "leaugue": "LL"
+  },
+  {
+    "datum": "19/01/19",
+    "tijd": "18:30",
+    "thuisTeam": "AZ",
+    "uitTeam": "FC Utrecht",
+    "zender": "Fox Sports 2",
+    "leaugue": "ED"
+  },
+  {
+    "datum": "19/01/19",
+    "tijd": "18:30",
+    "thuisTeam": "RB Leipzig",
+    "uitTeam": "Borussia Dortmund",
+    "zender": "Fox Sports 4",
+    "leaugue": "BL"
+  },
+  {
+    "datum": "19/01/19",
+    "tijd": "18:30",
+    "thuisTeam": "Arsenal",
+    "uitTeam": "Chelsea",
+    "zender": "Ziggo Sport",
+    "leaugue": "PL"
   }
 ]
