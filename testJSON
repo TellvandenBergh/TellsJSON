@@ -1,21 +1,5 @@
 [
   {
-    "datum": "15/01/19",
-    "tijd": "21:00",
-    "thuisTeam": "FC Barcelona",
-    "uitTeam": "Manchester City",
-    "zender": "Veronica",
-    "leaugue": "CL"
-  },
-  {
-    "datum": "16/01/19",
-    "tijd": "19:30",
-    "thuisTeam": "Atletico Madrid",
-    "uitTeam": "Girona",
-    "zender": "Ziggo Sport",
-    "leaugue": "CR"
-  },
-  {
     "datum": "16/01/19",
     "tijd": "21:30",
     "thuisTeam": "Leganes",
@@ -30,5 +14,37 @@
     "uitTeam": "Levante",
     "zender": "Ziggo Sport",
     "leaugue": "CR"
+  },
+  {
+    "datum": "18/01/19",
+    "tijd": "20:00",
+    "thuisTeam": "FC Den Bosch",
+    "uitTeam": "FC Oss",
+    "zender": "Fox Sports 2",
+    "leaugue": "KD"
+  },
+  {
+    "datum": "18/01/19",
+    "tijd": "20:00",
+    "thuisTeam": "Sparta",
+    "uitTeam": "Roda JC",
+    "zender": "Fox Sports 3",
+    "leaugue": "KD"
+  },
+  {
+    "datum": "18/01/19",
+    "tijd": "20:00",
+    "thuisTeam": "Vitesse",
+    "uitTeam": "Excelsior",
+    "zender": "Fox Sports 1",
+    "leaugue": "ED"
+  },
+  {
+    "datum": "18/01/19",
+    "tijd": "20:30",
+    "thuisTeam": "Hoffenheim",
+    "uitTeam": "FC Bayern Munchen",
+    "zender": "Fox Sports 4",
+    "leaugue": "BL"
   }
 ]
