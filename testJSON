@@ -1,130 +1,42 @@
 [
   {
-    "datum": "16/01/19",
-    "tijd": "21:30",
-    "thuisTeam": "Leganes",
-    "uitTeam": "Real Madrid",
-    "zender": "Ziggo Sport",
-    "leaugue": "CR"
-  },
-  {
-    "datum": "17/01/19",
-    "tijd": "21:30",
-    "thuisTeam": "FC Barcelona",
-    "uitTeam": "Levante",
-    "zender": "Ziggo Sport",
-    "leaugue": "CR"
-  },
-  {
-    "datum": "18/01/19",
-    "tijd": "20:00",
-    "thuisTeam": "FC Den Bosch",
-    "uitTeam": "FC Oss",
-    "zender": "Fox Sports 2",
-    "leaugue": "KD"
-  },
-  {
-    "datum": "18/01/19",
-    "tijd": "20:00",
-    "thuisTeam": "Sparta",
-    "uitTeam": "Roda JC",
-    "zender": "Fox Sports 3",
-    "leaugue": "KD"
-  },
-  {
-    "datum": "18/01/19",
-    "tijd": "20:00",
-    "thuisTeam": "Vitesse",
-    "uitTeam": "Excelsior",
-    "zender": "Fox Sports 1",
-    "leaugue": "ED"
-  },
-  {
-    "datum": "18/01/19",
-    "tijd": "20:30",
-    "thuisTeam": "Hoffenheim",
-    "uitTeam": "FC Bayern Munchen",
-    "zender": "Fox Sports 4",
-    "leaugue": "BL"
-  },
-  {
-    "datum": "19/01/19",
-    "tijd": "13:30",
-    "thuisTeam": "Wolverhampton",
-    "uitTeam": "Leicester City",
-    "zender": "Fox Sports",
-    "leaugue": "PL"
-  },
-  {
-    "datum": "19/01/19",
-    "tijd": "15:00",
-    "thuisTeam": "AS Roma",
-    "uitTeam": "Torino",
-    "zender": "Ziggo Sport Extra",
-    "leaugue": "SA"
-  },
-  {
-    "datum": "19/01/19",
-    "tijd": "15:30",
-    "thuisTeam": "VfB Stuttgart",
-    "uitTeam": "Mainz",
-    "zender": "Fox Sports 7",
-    "leaugue": "BL"
-  },
-  {
-    "datum": "19/01/19",
-    "tijd": "15:30",
-    "thuisTeam": "Eintracht Frankfurt",
-    "uitTeam": "Freiburg",
-    "zender": "Fox Sports 6",
-    "leaugue": "BL"
-  },
-  {
-    "datum": "19/01/19",
-    "tijd": "15:30",
-    "thuisTeam": "Hanover",
-    "uitTeam": "Werder Bremen",
-    "zender": "Fox Sports 5",
-    "leaugue": "BL"
-  },
-  {
-    "datum": "19/01/19",
-    "tijd": "16:00",
-    "thuisTeam": "Liverpool",
-    "uitTeam": "Crystal Palace",
-    "zender": "Ziggo Sport",
-    "leaugue": "PL"
-  },
-  {
-    "datum": "19/01/19",
-    "tijd": "16:15",
-    "thuisTeam": "Real Madrid",
-    "uitTeam": "Sevilla",
-    "zender": "Ziggo Sport Voetbal",
-    "leaugue": "LL"
-  },
-  {
-    "datum": "19/01/19",
-    "tijd": "18:30",
+    "datum": "22/01/19",
+    "tijd": "20:45",
     "thuisTeam": "AZ",
-    "uitTeam": "FC Utrecht",
-    "zender": "Fox Sports 2",
-    "leaugue": "ED"
+    "uitTeam": "Vitesse",
+    "zender": "Fox Sports 1",
+    "leaugue": "KB"
   },
   {
-    "datum": "19/01/19",
-    "tijd": "18:30",
-    "thuisTeam": "RB Leipzig",
-    "uitTeam": "Borussia Dortmund",
-    "zender": "Fox Sports 4",
-    "leaugue": "BL"
-  },
-  {
-    "datum": "19/01/19",
-    "tijd": "18:30",
-    "thuisTeam": "Arsenal",
-    "uitTeam": "Chelsea",
+    "datum": "22/01/19",
+    "tijd": "21:30",
+    "thuisTeam": "Valencia",
+    "uitTeam": "Getafe",
     "zender": "Ziggo Sport",
-    "leaugue": "PL"
+    "leaugue": "CR"
+  },
+  {
+    "datum": "23/01/19",
+    "tijd": "18:30",
+    "thuisTeam": "FC Twente",
+    "uitTeam": "Willem II",
+    "zender": "Fox Sports 2",
+    "leaugue": "KB"
+  },
+  {
+    "datum": "23/01/19",
+    "tijd": "20:45",
+    "thuisTeam": "Feyenoord",
+    "uitTeam": "Fortuna Sittard",
+    "zender": "Fox Sports 1",
+    "leaugue": "KB"
+  },
+  {
+    "datum": "23/01/19",
+    "tijd": "21:30",
+    "thuisTeam": "Sevilla",
+    "uitTeam": "FC Barcelona",
+    "zender": "Ziggo Sport Select",
+    "leaugue": "CR"
   }
 ]
