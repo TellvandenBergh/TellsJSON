@@ -3,7 +3,7 @@
     "datum": "24/01/19",
     "tijd": "20:45",
     "thuisTeam": "AZ",
-    "uitTeam": "Vitesse",
+    "uitTeam": "Real Madrid",
     "zender": "Fox Sports 1",
     "leaugue": "KB"
   },
@@ -11,7 +11,7 @@
     "datum": "24/01/19",
     "tijd": "21:30",
     "thuisTeam": "Valencia",
-    "uitTeam": "Getafe",
+    "uitTeam": "Manchester City",
     "zender": "Ziggo Sport",
     "leaugue": "CR"
   },
@@ -45,6 +45,6 @@
     "thuisTeam": "Ajax",
     "uitTeam": "FC Barcelona",
     "zender": "Ziggo Sport Select",
-    "leaugue": "CR"
+    "leaugue": "CL"
   }
 ]
