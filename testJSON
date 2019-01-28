@@ -1,22 +1,22 @@
 [
   {
-    "datum": "26/01/19",
+    "datum": "28/01/19",
     "tijd": "20:45",
     "thuisTeam": "AZ",
-    "uitTeam": "Real Madrid",
+    "uitTeam": "Vitesse",
     "zender": "Fox Sports 1",
     "leaugue": "KB"
   },
   {
-    "datum": "26/01/19",
+    "datum": "28/01/19",
     "tijd": "21:30",
     "thuisTeam": "Valencia",
-    "uitTeam": "Manchester City",
+    "uitTeam": "Getafe",
     "zender": "Ziggo Sport",
     "leaugue": "CR"
   },
   {
-    "datum": "27/01/19",
+    "datum": "29/01/19",
     "tijd": "18:30",
     "thuisTeam": "FC Twente",
     "uitTeam": "Willem II",
@@ -24,7 +24,7 @@
     "leaugue": "KB"
   },
   {
-    "datum": "27/01/19",
+    "datum": "29/01/19",
     "tijd": "20:45",
     "thuisTeam": "Feyenoord",
     "uitTeam": "Fortuna Sittard",
@@ -32,19 +32,19 @@
     "leaugue": "KB"
   },
   {
-    "datum": "28/01/19",
+    "datum": "30/01/19",
     "tijd": "21:30",
-    "thuisTeam": "Sevilla",
+    "thuisTeam": "Manchester City",
     "uitTeam": "FC Barcelona",
-    "zender": "Ziggo Sport Select",
-    "leaugue": "CR"
+    "zender": "Ziggo Sport",
+    "leaugue": "CL"
   },
-   {
-    "datum": "28/01/19",
+  {
+    "datum": "30/01/19",
     "tijd": "21:30",
     "thuisTeam": "Ajax",
-    "uitTeam": "FC Barcelona",
-    "zender": "Ziggo Sport Select",
+    "uitTeam": "Real Madrid",
+    "zender": "Ziggo Sport",
     "leaugue": "CL"
   }
 ]
