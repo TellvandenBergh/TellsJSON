@@ -1,6 +1,6 @@
 [
   {
-    "datum": "29/01/19",
+    "datum": "31/01/19",
     "tijd": "20:45",
     "thuisTeam": "AZ",
     "uitTeam": "FC Utrecht",
@@ -8,7 +8,7 @@
     "leaugue": "ED"
   },
   {
-    "datum": "29/01/19",
+    "datum": "31/01/19",
     "tijd": "21:30",
     "thuisTeam": "Valencia",
     "uitTeam": "Getafe",
@@ -16,7 +16,7 @@
     "leaugue": "LL"
   },
   {
-    "datum": "30/01/19",
+    "datum": "01/02/19",
     "tijd": "18:30",
     "thuisTeam": "FC Twente",
     "uitTeam": "Willem II",
@@ -24,7 +24,7 @@
     "leaugue": "ED"
   },
   {
-    "datum": "30/01/19",
+    "datum": "02/02/19",
     "tijd": "20:45",
     "thuisTeam": "Feyenoord",
     "uitTeam": "Fortuna Sittard",
@@ -32,7 +32,7 @@
     "leaugue": "ED"
   },
   {
-    "datum": "31/01/19",
+    "datum": "03/02/19",
     "tijd": "20:45",
     "thuisTeam": "PSV",
     "uitTeam": "ADO Den Haag",
@@ -40,7 +40,7 @@
     "leaugue": "ED"
   },
   {
-    "datum": "31/01/19",
+    "datum": "03/02/19",
     "tijd": "20:45",
     "thuisTeam": "Bayern",
     "uitTeam": "Borussia Dortmund",
@@ -48,7 +48,7 @@
     "leaugue": "BL"
   },
   {
-    "datum": "02/02/19",
+    "datum": "14/02/19",
     "tijd": "21:30",
     "thuisTeam": "Manchester City",
     "uitTeam": "FC Barcelona",
@@ -56,7 +56,7 @@
     "leaugue": "CL"
   },
   {
-    "datum": "02/02/19",
+    "datum": "14/02/19",
     "tijd": "21:30",
     "thuisTeam": "Ajax",
     "uitTeam": "Real Madrid",
