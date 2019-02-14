@@ -1,22 +1,22 @@
 [
   {
-    "datum": "13/02/19",
-    "tijd": "21:00",
-    "thuisTeam": "Ajax",
-    "uitTeam": "Real Madrid",
-    "zender": "Veronica",
-    "leaugue": "CL"
-  },
-  {
     "datum": "15/02/19",
     "tijd": "20:45",
     "thuisTeam": "AZ",
-    "uitTeam": "Ajax",
+    "uitTeam": "FC Utrecht",
     "zender": "Fox Sports 1",
     "leaugue": "ED"
   },
   {
     "datum": "15/02/19",
+    "tijd": "20:45",
+    "thuisTeam": "AZ",
+    "uitTeam": "FC Utrecht",
+    "zender": "Fox Sports 1",
+    "leaugue": "ED"
+  },
+  {
+    "datum": "16/02/19",
     "tijd": "21:30",
     "thuisTeam": "Valencia",
     "uitTeam": "Getafe",
@@ -32,7 +32,7 @@
     "leaugue": "ED"
   },
   {
-    "datum": "16/02/19",
+    "datum": "20/02/19",
     "tijd": "20:45",
     "thuisTeam": "Feyenoord",
     "uitTeam": "Fortuna Sittard",
@@ -40,7 +40,7 @@
     "leaugue": "ED"
   },
   {
-    "datum": "07/02/19",
+    "datum": "20/02/19",
     "tijd": "20:45",
     "thuisTeam": "Feyenoord",
     "uitTeam": "Fortuna Sittard",
@@ -48,7 +48,7 @@
     "leaugue": "ED"
   },
   {
-    "datum": "07/02/19",
+    "datum": "21/02/19",
     "tijd": "20:45",
     "thuisTeam": "PSV",
     "uitTeam": "ADO Den Haag",
@@ -56,7 +56,7 @@
     "leaugue": "ED"
   },
   {
-    "datum": "17/02/19",
+    "datum": "21/02/19",
     "tijd": "20:45",
     "thuisTeam": "Bayern",
     "uitTeam": "Borussia Dortmund",
@@ -64,7 +64,7 @@
     "leaugue": "BL"
   },
   {
-    "datum": "10/02/19",
+    "datum": "21/02/19",
     "tijd": "21:30",
     "thuisTeam": "Manchester City",
     "uitTeam": "FC Barcelona",
@@ -72,7 +72,7 @@
     "leaugue": "EL"
   },
   {
-    "datum": "11/02/19",
+    "datum": "24/02/19",
     "tijd": "21:30",
     "thuisTeam": "Ajax",
     "uitTeam": "Real Madrid",
