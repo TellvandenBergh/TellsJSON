@@ -34,8 +34,8 @@
   {
     "datum": "01/03/19",
     "tijd": "21:30",
-    "thuisTeam": "FC Den Bosch,
-    "uitTeam": "NEC",
+    "thuisTeam": "FC Twente",
+    "uitTeam": "NAC",
     "zender": "Fox Sports 2",
     "leaugue": "KD"
   },
@@ -106,9 +106,9 @@
   {
     "datum": "07/03/19",
     "tijd": "21:30",
-    "thuisTeam": "Leganes",
-    "uitTeam": "Real Sociedad",
-    "zender": "Ziggo Sport Voetbal",
+    "thuisTeam": "Ajax",
+    "uitTeam": "AZ",
+    "zender": "Ziggo Sport",
     "leaugue": "LL"
   }
 ]
