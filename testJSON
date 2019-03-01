@@ -25,7 +25,7 @@
   },
   {
     "datum": "01/03/19",
-    "tijd": "21:30",
+    "tijd": "21:00",
     "thuisTeam": "Real Madrid",
     "uitTeam": "Barcelona",
     "zender": "Ziggo Sport",
@@ -37,7 +37,7 @@
     "thuisTeam": "FC Twente",
     "uitTeam": "NAC",
     "zender": "Fox Sports 2",
-    "leaugue": "KK"
+    "leaugue": "KD"
   },
   {
     "datum": "01/03/19",
@@ -46,14 +46,6 @@
     "uitTeam": "Manchester City",
     "zender": "Ziggo Sport Voetbal",
     "leaugue": "PL"
-  },
-  {
-    "datum": "02/03/19",
-    "tijd": "20:45",
-    "thuisTeam": "Nederland",
-    "uitTeam": "Duitsland",
-    "zender": "NPO 1",
-    "leaugue": ""
   },
   {
     "datum": "03/03/19",
@@ -70,30 +62,6 @@
     "uitTeam": "Borussia Dortmund",
     "zender": "Fox Sports 5",
     "leaugue": "BL"
-  },
-  {
-    "datum": "04/03/19",
-    "tijd": "21:00",
-    "thuisTeam": "Juventus",
-    "uitTeam": "FC Barcelona",
-    "zender": "Veronica",
-    "leaugue": "CL"
-  },
-  {
-    "datum": "04/03/19",
-    "tijd": "21:00",
-    "thuisTeam": "Atletico Madrid",
-    "uitTeam": "Chelsea",
-    "zender": "Veronica",
-    "leaugue": "CL"
-  },
-  {
-    "datum": "04/03/19",
-    "tijd": "21:30",
-    "thuisTeam": "PSG",
-    "uitTeam": "Liverpool",
-    "zender": "Veronica",
-    "leaugue": "CL"
   },
   {
     "datum": "05/03/19",
@@ -125,7 +93,7 @@
     "thuisTeam": "Jong FC Utrecht",
     "uitTeam": "FC Twente",
     "zender": "Fox Sports 10",
-    "leaugue": "KK"
+    "leaugue": "KD"
   },
   {
     "datum": "07/03/19",
@@ -136,11 +104,11 @@
     "leaugue": "EL"
   },
   {
-    "datum": "08/03/19",
+    "datum": "07/03/19",
     "tijd": "21:30",
     "thuisTeam": "Ajax",
     "uitTeam": "AZ",
     "zender": "Ziggo Sport",
-    "leaugue": "DP"
+    "leaugue": "LL"
   }
 ]
