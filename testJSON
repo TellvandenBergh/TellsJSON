@@ -114,8 +114,32 @@
   {
     "datum": "13/03/19",
     "tijd": "21:30",
+    "thuisTeam": "Liverpool",
+    "uitTeam": "Bayern Munchen",
+    "zender": "Ziggo Sport",
+    "leaugue": "CL"
+  },
+  {
+    "datum": "13/03/19",
+    "tijd": "21:30",
     "thuisTeam": "Real Madrid",
     "uitTeam": "Juventus",
+    "zender": "Ziggo Sport",
+    "leaugue": "CL"
+  },
+  {
+    "datum": "13/03/19",
+    "tijd": "21:30",
+    "thuisTeam": "FC Barcelona",
+    "uitTeam": "Ajax",
+    "zender": "Ziggo Sport",
+    "leaugue": "CL"
+  },
+  {
+    "datum": "13/03/19",
+    "tijd": "21:30",
+    "thuisTeam": "Manchester City",
+    "uitTeam": "Altetico Madrid",
     "zender": "Ziggo Sport",
     "leaugue": "CL"
   }
