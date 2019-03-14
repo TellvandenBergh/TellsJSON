@@ -1,18 +1,210 @@
 [
   {
     "datum": "14/03/19",
-    "tijd": "12:45",
+    "tijd": "00:14",
     "thuisTeam": "AZ",
     "uitTeam": "FC Utrecht",
-    "zender": "Fox Sports 1",
+    "zender": "Ziggo",
     "leaugue": "ED"
   },
   {
-    "datum": "28/03/19",
-    "tijd": "14:00",
-    "thuisTeam": "Arsenal",
-    "uitTeam": "Liverpool",
-    "zender": "Ziggo Sport Golf",
+    "datum": "15/03/19",
+    "tijd": "00:15",
+    "thuisTeam": "Willem II",
+    "uitTeam": "Excelsior",
+    "zender": "Fox Sports 3",
+    "leaugue": "ED"
+  },
+  {
+    "datum": "16/03/19",
+    "tijd": "00:16",
+    "thuisTeam": "Ajax",
+    "uitTeam": "FC Heerenveen",
+    "zender": "Fox Sports 2",
+    "leaugue": "ED"
+  },
+  {
+    "datum": "17/03/19",
+    "tijd": "00:17",
+    "thuisTeam": "Real Madrid",
+    "uitTeam": "FC Barcelona",
+    "zender": "Ziggo Sport",
+    "leaugue": "LL"
+  },
+  {
+    "datum": "18/03/19",
+    "tijd": "00:18",
+    "thuisTeam": "FC Twente",
+    "uitTeam": "NAC",
+    "zender": "Fox Sports 2",
+    "leaugue": "KD"
+  },
+  {
+    "datum": "19/03/19",
+    "tijd": "00:19",
+    "thuisTeam": "Manchester United",
+    "uitTeam": "Manchester City",
+    "zender": "Ziggo Sport Voetbal",
     "leaugue": "PL"
+  },
+  {
+    "datum": "20/03/19",
+    "tijd": "00:20",
+    "thuisTeam": "PSV",
+    "uitTeam": "ADO Den Haag",
+    "zender": "Fox Sports 2",
+    "leaugue": "ED"
+  },
+  {
+    "datum": "21/03/19",
+    "tijd": "00:21",
+    "thuisTeam": "Bayern Munchen",
+    "uitTeam": "Borussia Dortmund",
+    "zender": "Fox Sports 5",
+    "leaugue": "BL"
+  },
+  {
+    "datum": "22/03/19",
+    "tijd": "00:22",
+    "thuisTeam": "Zenit St.Petersburg",
+    "uitTeam": "Villarreal CF",
+    "zender": "RTL 7",
+    "leaugue": "EL"
+  },
+  {
+    "datum": "23/03/19",
+    "tijd": "20:45",
+    "thuisTeam": "Malaga",
+    "uitTeam": "Internazionale",
+    "zender": "RTL 7",
+    "leaugue": "EL"
+  },
+  {
+    "datum": "24/03/19",
+    "tijd": "21:30",
+    "thuisTeam": "Hamburger SV",
+    "uitTeam": "Galatasaray",
+    "zender": "RTL 7",
+    "leaugue": "EL"
+  },
+  {
+    "datum": "25/03/19",
+    "tijd": "21:30",
+    "thuisTeam": "Jong FC Utrecht",
+    "uitTeam": "FC Twente",
+    "zender": "Fox Sports 10",
+    "leaugue": "KD"
+  },
+  {
+    "datum": "26/03/19",
+    "tijd": "21:30",
+    "thuisTeam": "FC Oss",
+    "uitTeam": "FC Eindhoven",
+    "zender": "Fox Sports 2",
+    "leaugue": "EL"
+  },
+  {
+    "datum": "27/03/19",
+    "tijd": "21:30",
+    "thuisTeam": "Ajax",
+    "uitTeam": "AZ",
+    "zender": "Ziggo Sport",
+    "leaugue": "LL"
+  },
+  {
+    "datum": "28/03/19",
+    "tijd": "21:30",
+    "thuisTeam": "Liverpool",
+    "uitTeam": "Bayern Munchen",
+    "zender": "Ziggo Sport",
+    "leaugue": "CL"
+  },
+  {
+    "datum": "29/03/19",
+    "tijd": "21:30",
+    "thuisTeam": "Real Madrid",
+    "uitTeam": "Juventus",
+    "zender": "Ziggo Sport",
+    "leaugue": "CL"
+  },
+  {
+    "datum": "30/03/19",
+    "tijd": "21:30",
+    "thuisTeam": "FC Barcelona",
+    "uitTeam": "Ajax",
+    "zender": "Ziggo Sport",
+    "leaugue": "CL"
+  },
+  {
+    "datum": "31/03/19",
+    "tijd": "21:30",
+    "thuisTeam": "Manchester City",
+    "uitTeam": "Altetico Madrid",
+    "zender": "Ziggo Sport",
+    "leaugue": "CL"
+  },
+  {
+    "datum": "01/04/19",
+    "tijd": "21:30",
+    "thuisTeam": "Manchester City",
+    "uitTeam": "Altetico Madrid",
+    "zender": "Ziggo Sport",
+    "leaugue": "CL"
+  },
+  {
+    "datum": "02/04/19",
+    "tijd": "21:30",
+    "thuisTeam": "Manchester City",
+    "uitTeam": "Altetico Madrid",
+    "zender": "Ziggo Sport",
+    "leaugue": "CL"
+  },
+  {
+    "datum": "03/04/19",
+    "tijd": "21:30",
+    "thuisTeam": "Manchester City",
+    "uitTeam": "Altetico Madrid",
+    "zender": "Ziggo Sport",
+    "leaugue": "CL"
+  },
+  {
+    "datum": "04/04/19",
+    "tijd": "21:30",
+    "thuisTeam": "Manchester City",
+    "uitTeam": "Altetico Madrid",
+    "zender": "Ziggo Sport",
+    "leaugue": "CL"
+  },
+  {
+    "datum": "05/04/19",
+    "tijd": "21:30",
+    "thuisTeam": "Manchester City",
+    "uitTeam": "Altetico Madrid",
+    "zender": "Ziggo Sport",
+    "leaugue": "CL"
+  },
+  {
+    "datum": "06/04/19",
+    "tijd": "21:30",
+    "thuisTeam": "Manchester City",
+    "uitTeam": "Altetico Madrid",
+    "zender": "Ziggo Sport",
+    "leaugue": "CL"
+  },
+  {
+    "datum": "07/04/19",
+    "tijd": "21:30",
+    "thuisTeam": "Manchester City",
+    "uitTeam": "Altetico Madrid",
+    "zender": "Ziggo Sport",
+    "leaugue": "CL"
+  },
+  {
+    "datum": "08/04/19",
+    "tijd": "21:30",
+    "thuisTeam": "Manchester City",
+    "uitTeam": "Altetico Madrid",
+    "zender": "Ziggo Sport",
+    "leaugue": "CL"
   }
 ]
