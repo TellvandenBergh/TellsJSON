@@ -1,6 +1,6 @@
 [
   {
-    "datum": "14/03/19",
+    "datum": "19/03/19",
     "tijd": "00:14",
     "thuisTeam": "AZ",
     "uitTeam": "FC Utrecht",
@@ -8,7 +8,7 @@
     "leaugue": "ED"
   },
   {
-    "datum": "15/03/19",
+    "datum": "19/03/19",
     "tijd": "00:15",
     "thuisTeam": "Willem II",
     "uitTeam": "Excelsior",
@@ -16,7 +16,7 @@
     "leaugue": "ED"
   },
   {
-    "datum": "16/03/19",
+    "datum": "20/03/19",
     "tijd": "00:16",
     "thuisTeam": "Ajax",
     "uitTeam": "FC Heerenveen",
@@ -24,7 +24,7 @@
     "leaugue": "ED"
   },
   {
-    "datum": "17/03/19",
+    "datum": "20/03/19",
     "tijd": "00:17",
     "thuisTeam": "Real Madrid",
     "uitTeam": "FC Barcelona",
@@ -40,7 +40,7 @@
     "leaugue": "KD"
   },
   {
-    "datum": "19/03/19",
+    "datum": "20/03/19",
     "tijd": "00:19",
     "thuisTeam": "Manchester United",
     "uitTeam": "Manchester City",
