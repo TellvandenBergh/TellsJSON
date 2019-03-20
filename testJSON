@@ -1,6 +1,6 @@
 [
   {
-    "datum": "20-03",
+    "datum": "24-03",
     "tijd": "00:14",
     "thuisTeam": "AZ",
     "uitTeam": "FC Utrecht",
@@ -8,7 +8,7 @@
     "leaugue": "ED"
   },
   {
-    "datum": "20-03",
+    "datum": "21-03",
     "tijd": "00:15",
     "thuisTeam": "Willem II",
     "uitTeam": "Excelsior",
@@ -24,7 +24,7 @@
     "leaugue": "ED"
   },
   {
-    "datum": "20-03",
+    "datum": "29-03",
     "tijd": "00:17",
     "thuisTeam": "Real Madrid",
     "uitTeam": "FC Barcelona",
@@ -40,7 +40,7 @@
     "leaugue": "KD"
   },
   {
-    "datum": "20-03",
+    "datum": "21-03",
     "tijd": "00:19",
     "thuisTeam": "Manchester United",
     "uitTeam": "Manchester City",
@@ -56,91 +56,11 @@
     "leaugue": "ED"
   },
   {
-    "datum": "21-03",
+    "datum": "29-03",
     "tijd": "00:21",
     "thuisTeam": "Bayern Munchen",
     "uitTeam": "Borussia Dortmund",
     "zender": "Fox Sports 5",
     "leaugue": "BL"
-  },
-  {
-    "datum": "22-03",
-    "tijd": "00:22",
-    "thuisTeam": "Zenit St.Petersburg",
-    "uitTeam": "Villarreal CF",
-    "zender": "RTL 7",
-    "leaugue": "EL"
-  },
-  {
-    "datum": "23-03",
-    "tijd": "20:45",
-    "thuisTeam": "Malaga",
-    "uitTeam": "Internazionale",
-    "zender": "RTL 7",
-    "leaugue": "EL"
-  },
-  {
-    "datum": "24-03",
-    "tijd": "21:30",
-    "thuisTeam": "Hamburger SV",
-    "uitTeam": "Galatasaray",
-    "zender": "RTL 7",
-    "leaugue": "EL"
-  },
-  {
-    "datum": "25-03-19",
-    "tijd": "21:30",
-    "thuisTeam": "Jong FC Utrecht",
-    "uitTeam": "FC Twente",
-    "zender": "Fox Sports 10",
-    "leaugue": "KD"
-  },
-  {
-    "datum": "26-03-19",
-    "tijd": "21:30",
-    "thuisTeam": "FC Oss",
-    "uitTeam": "FC Eindhoven",
-    "zender": "Fox Sports 2",
-    "leaugue": "EL"
-  },
-  {
-    "datum": "27-03-19",
-    "tijd": "21:30",
-    "thuisTeam": "Ajax",
-    "uitTeam": "AZ",
-    "zender": "Ziggo Sport",
-    "leaugue": "LL"
-  },
-  {
-    "datum": "28/03/19",
-    "tijd": "21:30",
-    "thuisTeam": "Liverpool",
-    "uitTeam": "Bayern Munchen",
-    "zender": "Ziggo Sport",
-    "leaugue": "CL"
-  },
-  {
-    "datum": "29/03/19",
-    "tijd": "21:30",
-    "thuisTeam": "Real Madrid",
-    "uitTeam": "Juventus",
-    "zender": "Ziggo Sport",
-    "leaugue": "CL"
-  },
-  {
-    "datum": "30/03/19",
-    "tijd": "21:30",
-    "thuisTeam": "FC Barcelona",
-    "uitTeam": "Ajax",
-    "zender": "Ziggo Sport",
-    "leaugue": "CL"
-  },
-  {
-    "datum": "31/03/19",
-    "tijd": "21:30",
-    "thuisTeam": "Manchester City",
-    "uitTeam": "Atletico Madrid",
-    "zender": "Ziggo Sport",
-    "leaugue": "CL"
   }
 ]
