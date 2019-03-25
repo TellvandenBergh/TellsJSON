@@ -78,5 +78,21 @@
     "uitTeam": "Juventus",
     "zender": "Veronica",
     "leaugue": "CL"
+  },
+  {
+    "datum": "04-04",
+    "tijd": "21:00",
+    "thuisTeam": "CL",
+    "uitTeam": "ZS",
+    "zender": "Ziggo Sport Switch",
+    "leaugue": "CL"
+  },
+  {
+    "datum": "04-04",
+    "tijd": "21:00",
+    "thuisTeam": "ED",
+    "uitTeam": "FSE",
+    "zender": "Switch op Kanaal 1",
+    "leaugue": "ED"
   }
 ]
