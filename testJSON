@@ -3,7 +3,7 @@
     "datum": "29-03",
     "tijd": "19:50",
     "thuisTeam": "FC Twente",
-    "uitTeam": "FD Den Bosch",
+    "uitTeam": "FC Den Bosch",
     "zender": "Fox Sports 2",
     "leaugue": "KD"
   },
@@ -11,7 +11,7 @@
     "datum": "29-03",
     "tijd": "19:50",
     "thuisTeam": "FC Sankt Pauli",
-    "uitTeam": "SV Duisburg",
+    "uitTeam": "MSV Duisburg",
     "zender": "Fox Sports 4",
     "leaugue": "2BL"
   },
@@ -139,7 +139,7 @@
     "datum": "31-03",
     "tijd": "00:35",
     "thuisTeam": "Columbus Crew SC",
-    "uitTeam": "Los Angeles Football Club",
+    "uitTeam": "Atlanta United",
     "zender": "Fox Sports 4",
     "leaugue": "MLS"
   },
@@ -322,14 +322,6 @@
   {
     "datum": "06-04",
     "tijd": "12:55",
-    "thuisTeam": "Vancouver Whitecaps FC",
-    "uitTeam": "LA Galaxy",
-    "zender": "Fox Sports 4",
-    "leaugue": "MLS"
-  },
-  {
-    "datum": "06-04",
-    "tijd": "12:55",
     "thuisTeam": "Holstein Kiel",
     "uitTeam": "FC Sankt Pauli",
     "zender": "Fox Sports 4",
@@ -346,25 +338,9 @@
   {
     "datum": "06-04",
     "tijd": "15:20",
-    "thuisTeam": "Hertha BSC",
-    "uitTeam": "Fortuna Dusseldorf",
-    "zender": "Fox Sports 7",
-    "leaugue": "BL"
-  },
-  {
-    "datum": "06-04",
-    "tijd": "15:20",
     "thuisTeam": "VfB Stuttgart",
     "uitTeam": "Nürnberg",
     "zender": "Fox Sports 8",
-    "leaugue": "BL"
-  },
-  {
-    "datum": "06-04",
-    "tijd": "15:25",
-    "thuisTeam": "Schalke 04",
-    "uitTeam": "Eintracht Frankfurt",
-    "zender": "Fox Sports 4",
     "leaugue": "BL"
   },
   {
@@ -459,7 +435,7 @@
     "datum": "07-04",
     "tijd": "14:30",
     "thuisTeam": "PEC Zwolle",
-    "uitTeam": "Foruna Sittard",
+    "uitTeam": "Fortuna Sittard",
     "zender": "Fox Sports 2",
     "leaugue": "ED"
   },
