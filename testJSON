@@ -122,7 +122,7 @@
   {
     "datum": "30-03",
     "tijd": "20:45",
-    "thuisTeam": "sc Heerenveen",
+    "thuisTeam": "SC Heerenveen",
     "uitTeam": "Excelsior",
     "zender": "Fox Sports 3",
     "leaugue": "ED"
@@ -299,7 +299,7 @@
     "datum": "04-04",
     "tijd": "20:45",
     "thuisTeam": "Feyenoord",
-    "uitTeam": "sc Heerenveen",
+    "uitTeam": "SC Heerenveen",
     "zender": "Fox Sports 1",
     "leaugue": "ED"
   },
@@ -529,16 +529,8 @@
   },
   {
     "datum": "30-03",
-    "tijd": "20:15",
-    "thuisTeam": "Alaves",
-    "uitTeam": "Atletico Madrid",
-    "zender": "Ziggo Sport",
-    "leaugue": "LL"
-  },
-  {
-    "datum": "30-03",
     "tijd": "13:20",
-    "thuisTeam": "Fulham",
+    "thuisTeam": "Fulham FC",
     "uitTeam": "Manchester City",
     "zender": "Ziggo Sport Voetbal",
     "leaugue": "PL"
@@ -562,7 +554,7 @@
   {
     "datum": "30-03",
     "tijd": "20:30",
-    "thuisTeam": "Sa pdoria",
+    "thuisTeam": "Sampdoria",
     "uitTeam": "AC Milan",
     "zender": "Ziggo Sport Voetbal",
     "leaugue": "SA"
@@ -589,7 +581,7 @@
     "thuisTeam": "Racing Genk",
     "uitTeam": "Anderlecht",
     "zender": "Ziggo Sport Extra",
-    "leaugue": "CH"
+    "leaugue": ""
   },
   {
     "datum": "31-03",
@@ -627,7 +619,7 @@
     "datum": "31-03",
     "tijd": "17:20",
     "thuisTeam": "Liverpool",
-    "uitTeam": "Tottenham",
+    "uitTeam": "Tottenham Hotspur",
     "zender": "Ziggo Sport Voetbal",
     "leaugue": "PL"
   },
@@ -713,14 +705,6 @@
   },
   {
     "datum": "03-04",
-    "tijd": "21:25",
-    "thuisTeam": "Valencia",
-    "uitTeam": "Real Madrid",
-    "zender": "Ziggo Sport Voetbal",
-    "leaugue": "LL"
-  },
-  {
-    "datum": "03-04",
     "tijd": "18:55",
     "thuisTeam": "Empoli FC",
     "uitTeam": "Napoli",
@@ -730,7 +714,7 @@
   {
     "datum": "03-04",
     "tijd": "20:35",
-    "thuisTeam": "Tottenham",
+    "thuisTeam": "Tottenham Hotspur",
     "uitTeam": "Crystal Palace",
     "zender": "Ziggo Sport Extra",
     "leaugue": "PL"
