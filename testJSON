@@ -155,7 +155,7 @@
     "datum": "07-04",
     "tijd": "17:55",
     "thuisTeam": "Borussia Mönchengladbach",
-    "uitTeam": "Bremen",
+    "uitTeam": "Werder Bremen",
     "zender": "Fox Sports 4",
     "leaugue": "BL"
   },
@@ -218,17 +218,9 @@
   {
     "datum": "11-04",
     "tijd": "20:55",
-    "thuisTeam": "Villarreal",
+    "thuisTeam": "Villarreal CF",
     "uitTeam": "Valencia",
     "zender": "Fox Sports 5",
-    "leaugue": "EL"
-  },
-  {
-    "datum": "11-04",
-    "tijd": "20:55",
-    "thuisTeam": "Slavia Praag",
-    "uitTeam": "Chelsea",
-    "zender": "Fox Sports 6",
     "leaugue": "EL"
   },
   {
@@ -350,14 +342,6 @@
     "uitTeam": "De Graafschap",
     "zender": "Fox Sports 1",
     "leaugue": "ED"
-  },
-  {
-    "datum": "14-04",
-    "tijd": "13:25",
-    "thuisTeam": "Hoffenheim",
-    "uitTeam": "Hertha BSC",
-    "zender": "Fox Sports 4",
-    "leaugue": "BL"
   },
   {
     "datum": "14-04",
@@ -554,8 +538,8 @@
   {
     "datum": "07-04",
     "tijd": "20:40",
-    "thuisTeam": "Real Betis",
-    "uitTeam": "Villarreal",
+    "thuisTeam": "Real Betis Sevilla",
+    "uitTeam": "Villarreal CF",
     "zender": "Ziggo Sport Voetbal",
     "leaugue": "LL"
   },
