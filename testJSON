@@ -1,309 +1,5 @@
 [
   {
-    "datum": "29-03",
-    "tijd": "19:50",
-    "thuisTeam": "FC Twente",
-    "uitTeam": "FC Den Bosch",
-    "zender": "Fox Sports 2",
-    "leaugue": "KD"
-  },
-  {
-    "datum": "29-03",
-    "tijd": "19:50",
-    "thuisTeam": "FC Sankt Pauli",
-    "uitTeam": "MSV Duisburg",
-    "zender": "Fox Sports 4",
-    "leaugue": "2BL"
-  },
-  {
-    "datum": "29-03",
-    "tijd": "19:50",
-    "thuisTeam": "NEC",
-    "uitTeam": "Jong Ajax",
-    "zender": "Fox Sports 3",
-    "leaugue": "KD"
-  },
-  {
-    "datum": "29-03",
-    "tijd": "20:25",
-    "thuisTeam": "Hoffenheim",
-    "uitTeam": "Bayer Leverkusen",
-    "zender": "Fox Sports 4",
-    "leaugue": "BL"
-  },
-  {
-    "datum": "30-03",
-    "tijd": "01:05",
-    "thuisTeam": "Toronto FC",
-    "uitTeam": "New York City FC",
-    "zender": "Fox Sports 4",
-    "leaugue": "MLS"
-  },
-  {
-    "datum": "30-03",
-    "tijd": "12:55",
-    "thuisTeam": "VfL Bochum",
-    "uitTeam": "HSV",
-    "zender": "Fox Sports 4",
-    "leaugue": "2BL"
-  },
-  {
-    "datum": "30-03",
-    "tijd": "15:20",
-    "thuisTeam": "Fortuna Dusseldorf",
-    "uitTeam": "Borussia Mönchengladbach",
-    "zender": "Fox Sports 8",
-    "leaugue": "BL"
-  },
-  {
-    "datum": "30-03",
-    "tijd": "15:20",
-    "thuisTeam": "Nürnberg",
-    "uitTeam": "FC Augsburg",
-    "zender": "Fox Sports 9",
-    "leaugue": "BL"
-  },
-  {
-    "datum": "30-03",
-    "tijd": "15:25",
-    "thuisTeam": "Borussia Dortmund",
-    "uitTeam": "VfL Wolfsburg",
-    "zender": "Fox Sports 4",
-    "leaugue": "BL"
-  },
-  {
-    "datum": "30-03",
-    "tijd": "15:25",
-    "thuisTeam": "Freiburg",
-    "uitTeam": "Bayern Munchen",
-    "zender": "Fox Sports 6",
-    "leaugue": "BL"
-  },
-  {
-    "datum": "30-03",
-    "tijd": "18:25",
-    "thuisTeam": "RB Leipzig",
-    "uitTeam": "Hertha BSC",
-    "zender": "Fox Sports 4",
-    "leaugue": "BL"
-  },
-  {
-    "datum": "30-03",
-    "tijd": "18:30",
-    "thuisTeam": "ADO Den Haag",
-    "uitTeam": "Vitesse",
-    "zender": "Fox Sports 2",
-    "leaugue": "ED"
-  },
-  {
-    "datum": "30-03",
-    "tijd": "18:30",
-    "thuisTeam": "Willem II",
-    "uitTeam": "Fortuna Sittard",
-    "zender": "Fox Sports 3",
-    "leaugue": "ED"
-  },
-  {
-    "datum": "30-03",
-    "tijd": "19:45",
-    "thuisTeam": "De Graafschap",
-    "uitTeam": "Heracles Almelo",
-    "zender": "Fox Sports 1",
-    "leaugue": "ED"
-  },
-  {
-    "datum": "30-03",
-    "tijd": "20:45",
-    "thuisTeam": "AZ",
-    "uitTeam": "FC Groningen",
-    "zender": "Fox Sports 2",
-    "leaugue": "ED"
-  },
-  {
-    "datum": "30-03",
-    "tijd": "20:45",
-    "thuisTeam": "SC Heerenveen",
-    "uitTeam": "Excelsior",
-    "zender": "Fox Sports 3",
-    "leaugue": "ED"
-  },
-  {
-    "datum": "30-03",
-    "tijd": "20:50",
-    "thuisTeam": "San Jose Earthquakes",
-    "uitTeam": "Los Angeles Football Club",
-    "zender": "Fox Sports 4",
-    "leaugue": "MLS"
-  },
-  {
-    "datum": "31-03",
-    "tijd": "00:35",
-    "thuisTeam": "Columbus Crew SC",
-    "uitTeam": "Atlanta United",
-    "zender": "Fox Sports 4",
-    "leaugue": "MLS"
-  },
-  {
-    "datum": "31-03",
-    "tijd": "12:15",
-    "thuisTeam": "NAC",
-    "uitTeam": "VVV Venlo",
-    "zender": "Fox Sports 1",
-    "leaugue": "ED"
-  },
-  {
-    "datum": "31-03",
-    "tijd": "13:25",
-    "thuisTeam": "FC Köln",
-    "uitTeam": "Holstein Kiel",
-    "zender": "Fox Sports 4",
-    "leaugue": "BL"
-  },
-  {
-    "datum": "31-03",
-    "tijd": "14:30",
-    "thuisTeam": "FC Utrecht",
-    "uitTeam": "Feyenoord",
-    "zender": "Fox Sports 1",
-    "leaugue": "ED"
-  },
-  {
-    "datum": "31-03",
-    "tijd": "14:30",
-    "thuisTeam": "PEC Zwolle",
-    "uitTeam": "FC Emmen",
-    "zender": "Fox Sports 2",
-    "leaugue": "ED"
-  },
-  {
-    "datum": "31-03",
-    "tijd": "15:25",
-    "thuisTeam": "Hanover",
-    "uitTeam": "Schalke 04",
-    "zender": "Fox Sports 4",
-    "leaugue": "BL"
-  },
-  {
-    "datum": "31-03",
-    "tijd": "16:45",
-    "thuisTeam": "Ajax",
-    "uitTeam": "PSV",
-    "zender": "Fox Sports 1",
-    "leaugue": "ED"
-  },
-  {
-    "datum": "01-04",
-    "tijd": "00:45",
-    "thuisTeam": "Orlando City SC",
-    "uitTeam": "D.C. United",
-    "zender": "Fox Sports 4",
-    "leaugue": "MLS"
-  },
-  {
-    "datum": "01-04",
-    "tijd": "03:05",
-    "thuisTeam": "LA Galaxy",
-    "uitTeam": "Portland Timbers",
-    "zender": "Fox Sports 4",
-    "leaugue": "MLS"
-  },
-  {
-    "datum": "01-04",
-    "tijd": "19:50",
-    "thuisTeam": "RKC Waalwijk",
-    "uitTeam": "FC Twente",
-    "zender": "Fox Sports 2",
-    "leaugue": "KD"
-  },
-  {
-    "datum": "01-04",
-    "tijd": "19:50",
-    "thuisTeam": "Sparta Rotterdam",
-    "uitTeam": "MVV",
-    "zender": "Fox Sports 3",
-    "leaugue": "KD"
-  },
-  {
-    "datum": "01-04",
-    "tijd": "20:25",
-    "thuisTeam": "Erzgebirge Aue",
-    "uitTeam": "Dynamo Dresden",
-    "zender": "Fox Sports 4",
-    "leaugue": "2BL"
-  },
-  {
-    "datum": "02-04",
-    "tijd": "18:30",
-    "thuisTeam": "Vitesse",
-    "uitTeam": "AZ",
-    "zender": "Fox Sports 1",
-    "leaugue": "ED"
-  },
-  {
-    "datum": "02-04",
-    "tijd": "19:45",
-    "thuisTeam": "Heracles Almelo",
-    "uitTeam": "Willem II",
-    "zender": "Fox Sports 2",
-    "leaugue": "ED"
-  },
-  {
-    "datum": "02-04",
-    "tijd": "20:45",
-    "thuisTeam": "FC Groningen",
-    "uitTeam": "De Graafschap",
-    "zender": "Fox Sports 1",
-    "leaugue": "ED"
-  },
-  {
-    "datum": "03-04",
-    "tijd": "18:30",
-    "thuisTeam": "VVV Venlo",
-    "uitTeam": "FC Utrecht",
-    "zender": "Fox Sports 1",
-    "leaugue": "ED"
-  },
-  {
-    "datum": "03-04",
-    "tijd": "19:45",
-    "thuisTeam": "Fortuna Sittard",
-    "uitTeam": "ADO Den Haag",
-    "zender": "Fox Sports 2",
-    "leaugue": "ED"
-  },
-  {
-    "datum": "03-04",
-    "tijd": "18:30",
-    "thuisTeam": "Excelsior",
-    "uitTeam": "NAC",
-    "zender": "Fox Sports 3",
-    "leaugue": "ED"
-  },
-  {
-    "datum": "03-04",
-    "tijd": "20:45",
-    "thuisTeam": "FC Emmen",
-    "uitTeam": "Ajax",
-    "zender": "Fox Sports 1",
-    "leaugue": "ED"
-  },
-  {
-    "datum": "04-04",
-    "tijd": "18:30",
-    "thuisTeam": "PSV",
-    "uitTeam": "PEC Zwolle",
-    "zender": "Fox Sports 1",
-    "leaugue": "ED"
-  },
-  {
-    "datum": "04-04",
-    "tijd": "20:45",
-    "thuisTeam": "Feyenoord",
-    "uitTeam": "SC Heerenveen",
-    "zender": "Fox Sports 1",
-    "leaugue": "ED"
-  },
-  {
     "datum": "05-04",
     "tijd": "20:25",
     "thuisTeam": "FSV Mainz",
@@ -411,7 +107,7 @@
     "datum": "07-04",
     "tijd": "12:15",
     "thuisTeam": "FC Emmen",
-    "uitTeam": "SC Heerenveen",
+    "uitTeam": "sc Heerenveen",
     "zender": "Fox Sports 1",
     "leaugue": "ED"
   },
@@ -426,7 +122,7 @@
   {
     "datum": "07-04",
     "tijd": "14:30",
-    "thuisTeam": "VVV Venlo",
+    "thuisTeam": "VVV Velno",
     "uitTeam": "Feyenoord",
     "zender": "Fox Sports 1",
     "leaugue": "ED"
@@ -504,219 +200,507 @@
     "leaugue": "2BL"
   },
   {
-    "datum": "29-03",
+    "datum": "11-04",
     "tijd": "20:55",
-    "thuisTeam": "West Bromwich Albion",
-    "uitTeam": "Birmingham City",
-    "zender": "Ziggo Sport Voetbal",
-    "leaugue": "CH"
+    "thuisTeam": "Benfica",
+    "uitTeam": "Eintracht Frankfurt",
+    "zender": "Fox Sports 2",
+    "leaugue": "EL"
   },
   {
-    "datum": "30-03",
-    "tijd": "17:45",
-    "thuisTeam": "Juventus",
-    "uitTeam": "Empoli FC",
+    "datum": "11-04",
+    "tijd": "20:55",
+    "thuisTeam": "Arsenal",
+    "uitTeam": "Napoli",
+    "zender": "Fox Sports 4",
+    "leaugue": "EL"
+  },
+  {
+    "datum": "11-04",
+    "tijd": "20:55",
+    "thuisTeam": "Villarreal",
+    "uitTeam": "Valencia",
+    "zender": "Fox Sports 5",
+    "leaugue": "EL"
+  },
+  {
+    "datum": "11-04",
+    "tijd": "20:55",
+    "thuisTeam": "Slavia Praag",
+    "uitTeam": "Chelsea",
+    "zender": "Fox Sports 6",
+    "leaugue": "EL"
+  },
+  {
+    "datum": "11-04",
+    "tijd": "20:55",
+    "thuisTeam": "Slavia Praag",
+    "uitTeam": "Chelsea",
+    "zender": "Fox Sports 6",
+    "leaugue": "EL"
+  },
+  {
+    "datum": "12-04",
+    "tijd": "20:00",
+    "thuisTeam": "NAC",
+    "uitTeam": "FC Emmen",
+    "zender": "Fox Sports 1",
+    "leaugue": "ED"
+  },
+  {
+    "datum": "12-04",
+    "tijd": "20:25",
+    "thuisTeam": "Nürnberg",
+    "uitTeam": "Schalke 04",
+    "zender": "Fox Sports 6",
+    "leaugue": "BL"
+  },
+  {
+    "datum": "13-04",
+    "tijd": "02:30",
+    "thuisTeam": "Chicago Fire",
+    "uitTeam": "Vancouver Whitecaps FC",
+    "zender": "Fox Sports 4",
+    "leaugue": "MLS"
+  },
+  {
+    "datum": "13-04",
+    "tijd": "15:20",
+    "thuisTeam": "Werder Bremen",
+    "uitTeam": "Freiburg",
+    "zender": "Fox Sports 7",
+    "leaugue": "BL"
+  },
+  {
+    "datum": "13-04",
+    "tijd": "15:20",
+    "thuisTeam": "Hanover",
+    "uitTeam": "Borussia Mönchengladbach",
+    "zender": "Fox Sports 8",
+    "leaugue": "BL"
+  },
+  {
+    "datum": "13-04",
+    "tijd": "15:25",
+    "thuisTeam": "VfB Stuttgart",
+    "uitTeam": "Bayer Leverkusen",
+    "zender": "Fox Sports 4",
+    "leaugue": "BL"
+  },
+  {
+    "datum": "13-04",
+    "tijd": "15:25",
+    "thuisTeam": "RB Leipzig",
+    "uitTeam": "VfL Wolfsburg",
+    "zender": "Fox Sports 6",
+    "leaugue": "BL"
+  },
+  {
+    "datum": "13-04",
+    "tijd": "18:25",
+    "thuisTeam": "Borussia Dortmund",
+    "uitTeam": "FSV Mainz",
+    "zender": "Fox Sports 4",
+    "leaugue": "BL"
+  },
+  {
+    "datum": "13-04",
+    "tijd": "18:30",
+    "thuisTeam": "Ajax",
+    "uitTeam": "Excelsior",
+    "zender": "Fox Sports 1",
+    "leaugue": "ED"
+  },
+  {
+    "datum": "13-04",
+    "tijd": "18:30",
+    "thuisTeam": "AZ",
+    "uitTeam": "ADO Den Haag",
+    "zender": "Fox Sports 2",
+    "leaugue": "ED"
+  },
+  {
+    "datum": "13-04",
+    "tijd": "20:45",
+    "thuisTeam": "Feyenoord",
+    "uitTeam": "Heracles Almelo",
+    "zender": "Fox Sports 1",
+    "leaugue": "ED"
+  },
+  {
+    "datum": "13-04",
+    "tijd": "20:45",
+    "thuisTeam": "Fortuna Sittard",
+    "uitTeam": "VVV Venlo",
+    "zender": "Fox Sports 2",
+    "leaugue": "ED"
+  },
+  {
+    "datum": "14-04",
+    "tijd": "01:30",
+    "thuisTeam": "New England Revolution",
+    "uitTeam": "Atlanta United",
+    "zender": "Fox Sports 4",
+    "leaugue": "MLS"
+  },
+  {
+    "datum": "14-04",
+    "tijd": "12:15",
+    "thuisTeam": "PSV",
+    "uitTeam": "De Graafschap",
+    "zender": "Fox Sports 1",
+    "leaugue": "ED"
+  },
+  {
+    "datum": "14-04",
+    "tijd": "13:25",
+    "thuisTeam": "Hoffenheim",
+    "uitTeam": "Hertha BSC",
+    "zender": "Fox Sports 4",
+    "leaugue": "BL"
+  },
+  {
+    "datum": "14-04",
+    "tijd": "13:25",
+    "thuisTeam": "Hoffenheim",
+    "uitTeam": "Hertha BSC",
+    "zender": "Fox Sports 4",
+    "leaugue": "BL"
+  },
+  {
+    "datum": "14-04",
+    "tijd": "14:30",
+    "thuisTeam": "Willem II",
+    "uitTeam": "PEC Zwolle",
+    "zender": "Fox Sports 2",
+    "leaugue": "ED"
+  },
+  {
+    "datum": "14-04",
+    "tijd": "15:25",
+    "thuisTeam": "Fortuna Dusseldorf",
+    "uitTeam": "Bayern Munchen",
+    "zender": "Fox Sports 4",
+    "leaugue": "BL"
+  },
+  {
+    "datum": "14-04",
+    "tijd": "16:45",
+    "thuisTeam": "FC Utrecht",
+    "uitTeam": "Vitesse",
+    "zender": "Fox Sports 1",
+    "leaugue": "ED"
+  },
+  {
+    "datum": "14-04",
+    "tijd": "17:55",
+    "thuisTeam": "Eintracht Frankfurt",
+    "uitTeam": "FC Augsburg",
+    "zender": "Fox Sports 4",
+    "leaugue": "BL"
+  },
+  {
+    "datum": "15-04",
+    "tijd": "20:00",
+    "thuisTeam": "Jong Ajax",
+    "uitTeam": "Go Ahead Eagles",
+    "zender": "Fox Sports 1",
+    "leaugue": "KD"
+  },
+  {
+    "datum": "15-04",
+    "tijd": "20:25",
+    "thuisTeam": "FC Köln",
+    "uitTeam": "HSV",
+    "zender": "Fox Sports 4",
+    "leaugue": "2BL"
+  },
+  {
+    "datum": "18-04",
+    "tijd": "04:00",
+    "thuisTeam": "Vancouver Whitecaps FC",
+    "uitTeam": "Los Angeles Football Club",
+    "zender": "Fox Sports 4",
+    "leaugue": "MLS"
+  },
+  {
+    "datum": "04-04",
+    "tijd": "20:55",
+    "thuisTeam": "Anderlecht",
+    "uitTeam": "Club Brugge",
     "zender": "Ziggo Sport",
+    "leaugue": "JP"
+  },
+  {
+    "datum": "04-04",
+    "tijd": "20:55",
+    "thuisTeam": "Atalanta",
+    "uitTeam": "Bologna",
+    "zender": "Ziggo Sport Voetbal",
     "leaugue": "SA"
   },
   {
-    "datum": "30-03",
-    "tijd": "20:15",
-    "thuisTeam": "Alaves",
+    "datum": "05-04",
+    "tijd": "20:50",
+    "thuisTeam": "Southampton",
+    "uitTeam": "Liverpool",
+    "zender": "Ziggo Sport",
+    "leaugue": "PL"
+  },
+  {
+    "datum": "06-04",
+    "tijd": "13:25",
+    "thuisTeam": "Norwich City",
+    "uitTeam": "Queens Park Rangers",
+    "zender": "Ziggo Sport",
+    "leaugue": "CH"
+  },
+  {
+    "datum": "06-04",
+    "tijd": "15:50",
+    "thuisTeam": "Real Madrid",
+    "uitTeam": "Eibar",
+    "zender": "Ziggo Sport",
+    "leaugue": "LL"
+  },
+  {
+    "datum": "06-04",
+    "tijd": "18:20",
+    "thuisTeam": "Manchester City",
+    "uitTeam": "Brighton & Hove Albion",
+    "zender": "Ziggo Sport",
+    "leaugue": "FA"
+  },
+  {
+    "datum": "06-04",
+    "tijd": "20:25",
+    "thuisTeam": "FC Barcelona",
     "uitTeam": "Atletico Madrid",
     "zender": "Ziggo Sport",
     "leaugue": "LL"
   },
   {
-    "datum": "30-03",
-    "tijd": "13:20",
-    "thuisTeam": "Fulham FC",
-    "uitTeam": "Manchester City",
-    "zender": "Ziggo Sport Voetbal",
-    "leaugue": "PL"
-  },
-  {
-    "datum": "30-03",
-    "tijd": "16:10",
-    "thuisTeam": "FC Barcelona",
+    "datum": "06-04",
+    "tijd": "12:55",
+    "thuisTeam": "Girona",
     "uitTeam": "Espanyol",
     "zender": "Ziggo Sport Voetbal",
     "leaugue": "LL"
   },
   {
-    "datum": "30-03",
-    "tijd": "18:20",
-    "thuisTeam": "West Ham United",
-    "uitTeam": "Everton",
+    "datum": "06-04",
+    "tijd": "15:55",
+    "thuisTeam": "Birmingham City",
+    "uitTeam": "Leeds United",
     "zender": "Ziggo Sport Voetbal",
-    "leaugue": "PL"
+    "leaugue": "CH"
   },
   {
-    "datum": "30-03",
-    "tijd": "20:30",
-    "thuisTeam": "Sampdoria",
+    "datum": "06-04",
+    "tijd": "17:55",
+    "thuisTeam": "Juventus",
     "uitTeam": "AC Milan",
     "zender": "Ziggo Sport Voetbal",
     "leaugue": "SA"
   },
   {
-    "datum": "30-03",
-    "tijd": "15:50",
-    "thuisTeam": "Manchester United",
-    "uitTeam": "Watford",
-    "zender": "Ziggo Sport Extra",
+    "datum": "06-04",
+    "tijd": "20:25",
+    "thuisTeam": "Sampdoria",
+    "uitTeam": "AS Roma",
+    "zender": "Ziggo Sport Voetbal",
+    "leaugue": "SA"
+  },
+  {
+    "datum": "07-04",
+    "tijd": "14:50",
+    "thuisTeam": "Everton",
+    "uitTeam": "Arsenal",
+    "zender": "Ziggo Sport",
     "leaugue": "PL"
   },
   {
-    "datum": "30-03",
-    "tijd": "18:25",
-    "thuisTeam": "Middlesbrough",
-    "uitTeam": "Norwich City",
-    "zender": "Ziggo Sport Extra",
-    "leaugue": "CH"
-  },
-  {
-    "datum": "30-03",
-    "tijd": "20:25",
-    "thuisTeam": "Racing Genk",
-    "uitTeam": "Anderlecht",
-    "zender": "Ziggo Sport Extra",
-    "leaugue": ""
-  },
-  {
-    "datum": "31-03",
-    "tijd": "20:45",
-    "thuisTeam": "Real Madrid",
-    "uitTeam": "Huesca",
+    "datum": "07-04",
+    "tijd": "16:55",
+    "thuisTeam": "Watford",
+    "uitTeam": "Wolverhampton",
     "zender": "Ziggo Sport",
+    "leaugue": "FA"
+  },
+  {
+    "datum": "07-04",
+    "tijd": "20:45",
+    "thuisTeam": "Napoli",
+    "uitTeam": "Genoa",
+    "zender": "Ziggo Sport",
+    "leaugue": "SA"
+  },
+  {
+    "datum": "07-04",
+    "tijd": "11:55",
+    "thuisTeam": "Alaves",
+    "uitTeam": "Leganes",
+    "zender": "Ziggo Sport Select",
     "leaugue": "LL"
   },
   {
-    "datum": "31-03",
-    "tijd": "20:45",
-    "thuisTeam": "Celtic",
-    "uitTeam": "Glasgow Rangers",
-    "zender": "Ziggo Sport Select",
-    "leaugue": ""
-  },
-  {
-    "datum": "31-03",
-    "tijd": "12:25",
-    "thuisTeam": "Parma",
-    "uitTeam": "Atalanta",
+    "datum": "07-04",
+    "tijd": "17:55",
+    "thuisTeam": "Anderlecht",
+    "uitTeam": "Antwerp",
     "zender": "Ziggo Sport Voetbal",
-    "leaugue": "SA"
+    "leaugue": "JP"
   },
   {
-    "datum": "31-03",
-    "tijd": "14:55",
-    "thuisTeam": "Cardiff City",
-    "uitTeam": "Chelsea",
+    "datum": "07-04",
+    "tijd": "20:40",
+    "thuisTeam": "Real Betis",
+    "uitTeam": "Villarreal",
     "zender": "Ziggo Sport Voetbal",
-    "leaugue": "PL"
+    "leaugue": "LL"
   },
   {
-    "datum": "31-03",
-    "tijd": "17:20",
-    "thuisTeam": "Liverpool",
-    "uitTeam": "Tottenham Hotspur",
-    "zender": "Ziggo Sport Voetbal",
-    "leaugue": "PL"
-  },
-  {
-    "datum": "31-03",
-    "tijd": "20:25",
+    "datum": "07-04",
+    "tijd": "17:55",
     "thuisTeam": "Internazionale",
-    "uitTeam": "Lazio",
-    "zender": "Ziggo Sport Voetbal",
-    "leaugue": "SA"
-  },
-  {
-    "datum": "31-03",
-    "tijd": "14:55",
-    "thuisTeam": "AS Roma",
-    "uitTeam": "Napoli",
+    "uitTeam": "Atalanta",
     "zender": "Ziggo Sport Docu",
     "leaugue": "SA"
   },
   {
-    "datum": "31-03",
-    "tijd": "16:10",
-    "thuisTeam": "Sevilla",
-    "uitTeam": "Valencia",
-    "zender": "Ziggo Sport Extra",
-    "leaugue": "LL"
+    "datum": "07-04",
+    "tijd": "20:25",
+    "thuisTeam": "Napoli",
+    "uitTeam": "Genoa",
+    "zender": "Ziggo Sport Docu",
+    "leaugue": "SA"
   },
   {
-    "datum": "01-04",
+    "datum": "07-04",
+    "tijd": "16:55",
+    "thuisTeam": "Watford",
+    "uitTeam": "Wolferhampton",
+    "zender": "Ziggo Sport Extra",
+    "leaugue": "FA"
+  },
+  {
+    "datum": "08-04",
     "tijd": "20:50",
-    "thuisTeam": "Arsenal",
-    "uitTeam": "Newcastle United",
+    "thuisTeam": "Chelsea",
+    "uitTeam": "West Ham United",
     "zender": "Ziggo Sport",
     "leaugue": "PL"
   },
   {
-    "datum": "02-04",
-    "tijd": "21:25",
-    "thuisTeam": "Villarreal",
+    "datum": "09-04",
+    "tijd": "21:00",
+    "thuisTeam": "Tottenham Hotspur",
+    "uitTeam": "Manchester City",
+    "zender": "Ziggo Sport",
+    "leaugue": "CL"
+  },
+  {
+    "datum": "09-04",
+    "tijd": "21:00",
+    "thuisTeam": "Liverpool",
+    "uitTeam": "FC Porto",
+    "zender": "Veronica",
+    "leaugue": "CL"
+  },
+  {
+    "datum": "09-04",
+    "tijd": "21:00",
+    "thuisTeam": "Liverpool",
+    "uitTeam": "FC Porto",
+    "zender": "Ziggo Sport Voetbal",
+    "leaugue": "CL"
+  },
+  {
+    "datum": "10-04",
+    "tijd": "21:00",
+    "thuisTeam": "Manchester United",
     "uitTeam": "FC Barcelona",
     "zender": "Ziggo Sport",
-    "leaugue": "LL"
+    "leaugue": "CL"
   },
   {
-    "datum": "02-04",
-    "tijd": "19:25",
-    "thuisTeam": "Atletico Madrid",
-    "uitTeam": "Girona",
-    "zender": "Ziggo Sport Voetbal",
-    "leaugue": "LL"
-  },
-  {
-    "datum": "02-04",
-    "tijd": "21:30",
-    "thuisTeam": "Wolverhampton Wanderers",
-    "uitTeam": "Manchester United",
-    "zender": "Ziggo Sport Voetbal",
-    "leaugue": "PL"
-  },
-  {
-    "datum": "02-04",
-    "tijd": "20:55",
-    "thuisTeam": "Cagliari",
+    "datum": "10-04",
+    "tijd": "21:00",
+    "thuisTeam": "Ajax",
     "uitTeam": "Juventus",
-    "zender": "Ziggo Sport Extra",
-    "leaugue": "SA"
-  },
-  {
-    "datum": "03-04",
-    "tijd": "20:35",
-    "thuisTeam": "Manchester City",
-    "uitTeam": "Cardiff City",
-    "zender": "Ziggo Sport",
-    "leaugue": "PL"
-  },
-  {
-    "datum": "03-04",
-    "tijd": "22:40",
-    "thuisTeam": "Valencia",
-    "uitTeam": "Real Madrid",
-    "zender": "Ziggo Sport",
-    "leaugue": "LL"
-  },
-  {
-    "datum": "03-04",
-    "tijd": "18:55",
-    "thuisTeam": "Empoli FC",
-    "uitTeam": "Napoli",
     "zender": "Ziggo Sport Voetbal",
-    "leaugue": "SA"
+    "leaugue": "CL"
   },
   {
-    "datum": "03-04",
-    "tijd": "20:35",
-    "thuisTeam": "Tottenham Hotspur",
-    "uitTeam": "Crystal Palace",
-    "zender": "Ziggo Sport Extra",
+    "datum": "10-04",
+    "tijd": "21:00",
+    "thuisTeam": "Ajax",
+    "uitTeam": "Juventus",
+    "zender": "Veronica",
+    "leaugue": "CL"
+  },
+  {
+    "datum": "12-04",
+    "tijd": "20:25",
+    "thuisTeam": "Standard liege",
+    "uitTeam": "Anderlecht",
+    "zender": "Ziggo Sport",
+    "leaugue": "JP"
+  },
+  {
+    "datum": "12-04",
+    "tijd": "20:50",
+    "thuisTeam": "Leicester City",
+    "uitTeam": "Newcastle United",
+    "zender": "Ziggo Sport Voetbal",
     "leaugue": "PL"
+  },
+  {
+    "datum": "05-04",
+    "tijd": "20:00",
+    "thuisTeam": "Nederland Vrouwen",
+    "uitTeam": "Mexico Vrouwen",
+    "zender": "Veronica",
+    "leaugue": ""
+  },
+  {
+    "datum": "06-04",
+    "tijd": "13:45",
+    "thuisTeam": "Zweden Vrouwen",
+    "uitTeam": "Duitsland Vrouwen",
+    "zender": "ARD",
+    "leaugue": ""
+  },
+  {
+    "datum": "06-04",
+    "tijd": "18:30",
+    "thuisTeam": "Manchester City",
+    "uitTeam": "Brighton & Hove Albion",
+    "zender": "BBC One",
+    "leaugue": "FA"
+  },
+  {
+    "datum": "08-04",
+    "tijd": "20:00",
+    "thuisTeam": "Jong PSV",
+    "uitTeam": "NEC",
+    "zender": "Fox",
+    "leaugue": "KD"
+  },
+  {
+    "datum": "09-04",
+    "tijd": "18:30",
+    "thuisTeam": "Nederland Vrouwen",
+    "uitTeam": "Chili Vrouwen",
+    "zender": "Veronica",
+    "leaugue": ""
+  },
+  {
+    "datum": "11-04",
+    "tijd": "21:00",
+    "thuisTeam": "Arsenal",
+    "uitTeam": "Napoli",
+    "zender": "RTL 7",
+    "leaugue": "ED"
   }
 ]
