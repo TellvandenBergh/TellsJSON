@@ -1,21 +1,5 @@
 [
   {
-    "datum": "10-04",
-    "tijd": "02:00",
-    "thuisTeam": "D.C. United",
-    "uitTeam": "Montreal Impact",
-    "zender": "Fox Sports 4",
-    "leaugue": "MLS"
-  },
-  {
-    "datum": "10-04",
-    "tijd": "18:25",
-    "thuisTeam": "MSV Duisburg",
-    "uitTeam": "FC Köln",
-    "zender": "Fox Sports 4",
-    "leaugue": "2BL"
-  },
-  {
     "datum": "11-04",
     "tijd": "20:55",
     "thuisTeam": "Benfica",
@@ -54,6 +38,30 @@
     "uitTeam": "FC Emmen",
     "zender": "Fox Sports 1",
     "leaugue": "ED"
+  },
+  {
+    "datum": "12-04",
+    "tijd": "18:25",
+    "thuisTeam": "FC Twente",
+    "uitTeam": "Telstar",
+    "zender": "Fox Sports 2",
+    "leaugue": "KD"
+  },
+  {
+    "datum": "12-04",
+    "tijd": "18:25",
+    "thuisTeam": "FC Eindhoven",
+    "uitTeam": "Roda JD",
+    "zender": "Fox Sports 3",
+    "leaugue": "KD"
+  },
+  {
+    "datum": "12-04",
+    "tijd": "18:25",
+    "thuisTeam": "Union Berlin",
+    "uitTeam": "Jahn Regensburg",
+    "zender": "Fox Sports 6",
+    "leaugue": "2BL"
   },
   {
     "datum": "12-04",
@@ -204,7 +212,7 @@
     "tijd": "20:00",
     "thuisTeam": "Jong Ajax",
     "uitTeam": "Go Ahead Eagles",
-    "zender": "Fox Sports 1",
+    "zender": "Fox",
     "leaugue": "KD"
   },
   {
@@ -464,6 +472,38 @@
     "leaugue": "ED"
   },
   {
+    "datum": "24-04",
+    "tijd": "19:45",
+    "thuisTeam": "FC Utrecht",
+    "uitTeam": "Fortuna Sittard",
+    "zender": "Fox Sports 2",
+    "leaugue": "ED"
+  },
+  {
+    "datum": "24-04",
+    "tijd": "19:45",
+    "thuisTeam": "PEC Zwolle",
+    "uitTeam": "FC Groningen",
+    "zender": "Fox Sports 3",
+    "leaugue": "ED"
+  },
+  {
+    "datum": "24-04",
+    "tijd": "20:45",
+    "thuisTeam": "NAC",
+    "uitTeam": "Feyenoord",
+    "zender": "Fox Sports 1",
+    "leaugue": "ED"
+  },
+  {
+    "datum": "25-04",
+    "tijd": "02:00",
+    "thuisTeam": "Minnesota United FC",
+    "uitTeam": "LA Galaxy",
+    "zender": "Fox Sports 4",
+    "leaugue": "MLS"
+  },
+  {
     "datum": "10-04",
     "tijd": "21:00",
     "thuisTeam": "Manchester United",
@@ -523,14 +563,14 @@
     "datum": "13-04",
     "tijd": "20:35",
     "thuisTeam": "Sevilla",
-    "uitTeam": "Real Betis Sevilla",
+    "uitTeam": "Real Betis",
     "zender": "Ziggo Sport",
     "leaugue": "LL"
   },
   {
     "datum": "13-04",
     "tijd": "18:25",
-    "thuisTeam": "Atletico Madrid",
+    "thuisTeam": "Altetico Madrid",
     "uitTeam": "Celta de Vigo",
     "zender": "Ziggo Sport Voetbal",
     "leaugue": "LL"
@@ -581,7 +621,7 @@
     "thuisTeam": "Sampdoria",
     "uitTeam": "Genoa",
     "zender": "Ziggo Sport Voetbal",
-    "leaugue": "SA"
+    "leaugue": "AS"
   },
   {
     "datum": "14-04",
@@ -628,6 +668,14 @@
     "tijd": "21:00",
     "thuisTeam": "Juventus",
     "uitTeam": "Ajax",
+    "zender": "Ziggo Sport Voetbal",
+    "leaugue": "CL"
+  },
+  {
+    "datum": "16-04",
+    "tijd": "21:00",
+    "thuisTeam": "Juventus",
+    "uitTeam": "Ajax",
     "zender": "Veronica",
     "leaugue": "CL"
   },
@@ -644,7 +692,7 @@
     "tijd": "21:00",
     "thuisTeam": "FC Porto",
     "uitTeam": "Liverpool",
-    "zender": "Ziggo Sport Voetbal",
+    "zender": "Veronica",
     "leaugue": "CL"
   },
   {
@@ -654,46 +702,6 @@
     "uitTeam": "Udinese",
     "zender": "Ziggo Sport Voetbal",
     "leaugue": "SA"
-  },
-  {
-    "datum": "05-04",
-    "tijd": "20:00",
-    "thuisTeam": "Nederland Vrouwen",
-    "uitTeam": "Mexico Vrouwen",
-    "zender": "Veronica",
-    "leaugue": ""
-  },
-  {
-    "datum": "06-04",
-    "tijd": "13:45",
-    "thuisTeam": "Zweden Vrouwen",
-    "uitTeam": "Duitsland Vrouwen",
-    "zender": "ARD",
-    "leaugue": ""
-  },
-  {
-    "datum": "06-04",
-    "tijd": "18:30",
-    "thuisTeam": "Manchester City",
-    "uitTeam": "Brighton & Hove Albion",
-    "zender": "BBC One",
-    "leaugue": "FA"
-  },
-  {
-    "datum": "08-04",
-    "tijd": "20:00",
-    "thuisTeam": "Jong PSV",
-    "uitTeam": "NEC",
-    "zender": "Fox",
-    "leaugue": "KD"
-  },
-  {
-    "datum": "09-04",
-    "tijd": "18:30",
-    "thuisTeam": "Nederland Vrouwen",
-    "uitTeam": "Chili Vrouwen",
-    "zender": "Veronica",
-    "leaugue": ""
   },
   {
     "datum": "11-04",
