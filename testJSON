@@ -1,37 +1,5 @@
 [
   {
-    "datum": "11-04",
-    "tijd": "20:55",
-    "thuisTeam": "Benfica",
-    "uitTeam": "Eintracht Frankfurt",
-    "zender": "Fox Sports 2",
-    "leaugue": "EL"
-  },
-  {
-    "datum": "11-04",
-    "tijd": "20:55",
-    "thuisTeam": "Arsenal",
-    "uitTeam": "Napoli",
-    "zender": "Fox Sports 4",
-    "leaugue": "EL"
-  },
-  {
-    "datum": "11-04",
-    "tijd": "20:55",
-    "thuisTeam": "Villarreal CF",
-    "uitTeam": "Valencia",
-    "zender": "Fox Sports 5",
-    "leaugue": "EL"
-  },
-  {
-    "datum": "11-04",
-    "tijd": "20:55",
-    "thuisTeam": "Slavia Praag",
-    "uitTeam": "Chelsea",
-    "zender": "Fox Sports 6",
-    "leaugue": "EL"
-  },
-  {
     "datum": "12-04",
     "tijd": "20:00",
     "thuisTeam": "NAC",
@@ -51,7 +19,7 @@
     "datum": "12-04",
     "tijd": "18:25",
     "thuisTeam": "FC Eindhoven",
-    "uitTeam": "Roda JD",
+    "uitTeam": "Roda JC",
     "zender": "Fox Sports 3",
     "leaugue": "KD"
   },
@@ -504,20 +472,20 @@
     "leaugue": "MLS"
   },
   {
-    "datum": "10-04",
-    "tijd": "21:00",
-    "thuisTeam": "Manchester United",
-    "uitTeam": "FC Barcelona",
-    "zender": "Ziggo Sport",
-    "leaugue": "CL"
+    "datum": "25-04",
+    "tijd": "18:30",
+    "thuisTeam": "ADO Den Haag",
+    "uitTeam": "Exclesior",
+    "zender": "Fox Sports 1",
+    "leaugue": "ED"
   },
   {
-    "datum": "10-04",
-    "tijd": "21:00",
-    "thuisTeam": "Ajax",
-    "uitTeam": "Juventus",
-    "zender": "Veronica",
-    "leaugue": "CL"
+    "datum": "25-04",
+    "tijd": "20:45",
+    "thuisTeam": "Willem II",
+    "uitTeam": "PSV",
+    "zender": "Fox Sports 1",
+    "leaugue": "ED"
   },
   {
     "datum": "12-04",
@@ -704,11 +672,19 @@
     "leaugue": "SA"
   },
   {
-    "datum": "11-04",
-    "tijd": "21:00",
-    "thuisTeam": "Arsenal",
-    "uitTeam": "Napoli",
-    "zender": "RTL 7",
-    "leaugue": "ED"
+    "datum": "19-04",
+    "tijd": "20:25",
+    "thuisTeam": "Standard liege",
+    "uitTeam": "Racing Club Genk",
+    "zender": "Ziggo Sport",
+    "leaugue": "JP"
+  },
+  {
+    "datum": "19-04",
+    "tijd": "20:40",
+    "thuisTeam": "Norwich City",
+    "uitTeam": "Sheffield Wednesday",
+    "zender": "Ziggo Sport Voetbal",
+    "leaugue": "PL"
   }
 ]
