@@ -219,7 +219,7 @@
     "datum": "18-04",
     "tijd": "20:55",
     "thuisTeam": "Valencia",
-    "uitTeam": "Villarreal",
+    "uitTeam": "Villarreal CF",
     "zender": "Fox Sports 5",
     "leaugue": "EL"
   },
@@ -237,7 +237,7 @@
     "thuisTeam": "LA Galaxy",
     "uitTeam": "Houston Dynamo",
     "zender": "Fox Sports 4",
-    "leaugue": "MSL"
+    "leaugue": "MLS"
   },
   {
     "datum": "20-04",
@@ -531,14 +531,14 @@
     "datum": "13-04",
     "tijd": "20:35",
     "thuisTeam": "Sevilla",
-    "uitTeam": "Real Betis",
+    "uitTeam": "Real Betis Sevilla",
     "zender": "Ziggo Sport",
     "leaugue": "LL"
   },
   {
     "datum": "13-04",
     "tijd": "18:25",
-    "thuisTeam": "Altetico Madrid",
+    "thuisTeam": "Atletico Madrid",
     "uitTeam": "Celta de Vigo",
     "zender": "Ziggo Sport Voetbal",
     "leaugue": "LL"
