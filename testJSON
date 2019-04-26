@@ -26,7 +26,7 @@
   {
     "datum": "28-04",
     "tijd": "00:00",
-    "thuisTeam": "Atalanta United",
+    "thuisTeam": "Atlanta United",
     "uitTeam": "Colorado Rapids",
     "zender": "Fox Sports 4",
     "leaugue": "MLS"
@@ -42,7 +42,7 @@
   {
     "datum": "28-04",
     "tijd": "17:55",
-    "thuisTeam": "FC Nurnberg",
+    "thuisTeam": "Nürnberg",
     "uitTeam": "Bayern Munchen",
     "zender": "Fox Sports 4",
     "leaugue": "BL"
@@ -89,14 +89,6 @@
   },
   {
     "datum": "02-05",
-    "tijd": "01:30",
-    "thuisTeam": "Philadelphia Union",
-    "uitTeam": "FC Cincinnati",
-    "zender": "Fox Sports 4",
-    "leaugue": "MLS"
-  },
-  {
-    "datum": "02-05",
     "tijd": "20:55",
     "thuisTeam": "Eintracht Frankfurt",
     "uitTeam": "Chelsea",
@@ -123,7 +115,7 @@
     "datum": "04-05",
     "tijd": "15:25",
     "thuisTeam": "Bayern Munchen",
-    "uitTeam": "Hanover 96",
+    "uitTeam": "Hanover",
     "zender": "Fox Sports 4",
     "leaugue": "BL"
   },
@@ -131,7 +123,7 @@
     "datum": "04-05",
     "tijd": "18:25",
     "thuisTeam": "Werder Bremen",
-    "uitTeam": "Borussia Dortmunt",
+    "uitTeam": "Borussia Dortmund",
     "zender": "Fox Sports 4",
     "leaugue": "BL"
   },
@@ -314,7 +306,7 @@
   {
     "datum": "27-04",
     "tijd": "15:50",
-    "thuisTeam": "Fulham",
+    "thuisTeam": "Fulham FC",
     "uitTeam": "Cardiff City",
     "zender": "Ziggo Sport Extra",
     "leaugue": "PL"
@@ -322,7 +314,7 @@
   {
     "datum": "27-04",
     "tijd": "20:25",
-    "thuisTeam": "AA Gent",
+    "thuisTeam": "KAA Gent",
     "uitTeam": "Racing Genk",
     "zender": "Ziggo Sport Extra",
     "leaugue": ""
@@ -342,14 +334,6 @@
     "uitTeam": "Real Madrid",
     "zender": "Ziggo Sport",
     "leaugue": "LL"
-  },
-  {
-    "datum": "28-04",
-    "tijd": "12:50",
-    "thuisTeam": "Leicester City",
-    "uitTeam": "Arsenal",
-    "zender": "Ziggo Sport Voetbal",
-    "leaugue": "PL"
   },
   {
     "datum": "28-04",
