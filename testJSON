@@ -1,98 +1,50 @@
 [
   {
-    "datum": "29-05",
+    "datum": "01-06",
     "tijd": "21:00",
-    "thuisTeam": "Chelsea",
-    "uitTeam": "Arsenal",
-    "zender": "RTL 7”,
-    "leaugue": "EL"
+    "thuisTeam": "Tottenham Hotspur",
+    "uitTeam": "Liverpool",
+    "zender": "Veronica & Ziggo Sport",
+    "leaugue": "CL"
   },
   {
-    "datum": "21-05",
-    "tijd": "20:40",
-    "thuisTeam": "Vitesse",
-    "uitTeam": "FC Groningen",
+    "datum": "01-06",
+    "tijd": "23:00",
+    "thuisTeam": "Montreal Impact",
+    "uitTeam": "Orlando City SC",
+    "zender": "Fox Sports 4",
+    "leaugue": "MLS"
+  },
+  {
+    "datum": "02-06",
+    "tijd": "00:10",
+    "thuisTeam": "Atlanta United",
+    "uitTeam": "Chicago Fire",
+    "zender": "Fox Sports 4",
+    "leaugue": "MLS"
+  },
+  {
+    "datum": "31-05",
+    "tijd": "20:00",
+    "thuisTeam": "Jong Nederland",
+    "uitTeam": "Jong Mexico",
     "zender": "Fox Sports 1",
-    "leaugue": "ED"
+    "leaugue": ""
   },
   {
-    "datum": "22-05",
-    "tijd": "18:30",
-    "thuisTeam": "Excelsior",
-    "uitTeam": "RKC Waalwijk",
-    "zender": "Fox Sports 7",
-    "leaugue": "ED"
+    "datum": "05-06",
+    "tijd": "20:45",
+    "thuisTeam": "Portugal",
+    "uitTeam": "Zwitserland",
+    "zender": "Ziggo Sport",
+    "leaugue": ""
   },
   {
-    "datum": "22-05",
-    "tijd": "18:30",
-    "thuisTeam": "FC Den Bosch",
-    "uitTeam": "Go Ahead Eagles",
-    "zender": "Fox Sports 1",
-    "leaugue": "ED"
-  },
-  {
-    "datum": "22-05",
-    "tijd": "20:40",
-    "thuisTeam": "De Graafschap",
-    "uitTeam": "SC Cambuur",
-    "zender": "Fox Sports 2",
-    "leaugue": "ED"
-  },
-  {
-    "datum": "22-05",
-    "tijd": "20:40",
-    "thuisTeam": "Sparta Rotterdam",
-    "uitTeam": "FC Oss",
-    "zender": "Fox Sports 1",
-    "leaugue": "ED"
-  },
-  {
-    "datum": "25-05",
-    "tijd": "01:00",
-    "thuisTeam": "Orlando City SC",
-    "uitTeam": "LA Galaxy",
-    "zender": "Fox Sports 4",
-    "leaugue": "MLS"
-  },
-  {
-    "datum": "25-05",
-    "tijd": "03:00",
-    "thuisTeam": "Real Salt Lake",
-    "uitTeam": "Atlanta United",
-    "zender": "Fox Sports 4",
-    "leaugue": "MLS"
-  },
-  {
-    "datum": "25-05",
-    "tijd": "19:00",
-    "thuisTeam": "RB Leipzig",
-    "uitTeam": "Bayern Munchen",
-    "zender": "Fox Sports 4",
-    "leaugue": "DFB"
-  },
-  {
-    "datum": "25-05",
-    "tijd": "21:25",
-    "thuisTeam": "FC Barcelona",
-    "uitTeam": "Valencia",
-    "zender": "Fox Sports 5",
-    "leaugue": "CR"
-  },
-  {
-    "datum": "26-05",
-    "tijd": "01:30",
-    "thuisTeam": "New England Revolution",
-    "uitTeam": "D.C. United",
-    "zender": "Fox Sports 4",
-    "leaugue": "MLS"
-  },
-  {
-    "datum": "27-05",
-    "tijd": "01:30",
-    "thuisTeam": "Toronto FC",
-    "uitTeam": "San Jose Earthquakes",
-    "zender": "Fox Sports 4",
-    "leaugue": "MLS"
+    "datum": "06-06",
+    "tijd": "20:45",
+    "thuisTeam": "Nederland",
+    "uitTeam": "Engeland",
+    "zender": "NPO 1",
+    "leaugue": ""
   }
 ]
