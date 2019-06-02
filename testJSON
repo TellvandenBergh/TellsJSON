@@ -46,5 +46,29 @@
     "uitTeam": "Engeland",
     "zender": "NPO 1",
     "leaugue": ""
+  },
+  {
+    "datum": "11-06",
+    "tijd": "15:00",
+    "thuisTeam": "Nieuw Zeeland Vrouwen",
+    "uitTeam": "Nederland Vrouwen",
+    "zender": "NPO 1",
+    "leaugue": ""
+  },
+  {
+    "datum": "15-06",
+    "tijd": "15:00",
+    "thuisTeam": "Nederland Vrouwen",
+    "uitTeam": "Kameroen Vrouwen",
+    "zender": "NPO 1",
+    "leaugue": ""
+  },
+  {
+    "datum": "20-06",
+    "tijd": "18:00",
+    "thuisTeam": "Nederland Vrouwen",
+    "uitTeam": "Canada Vrouwen",
+    "zender": "NPO 1",
+    "leaugue": ""
   }
 ]
