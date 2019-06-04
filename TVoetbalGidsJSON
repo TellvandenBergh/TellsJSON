@@ -1,74 +1,146 @@
 [
   {
-    "datum": "01-06",
+    "datum": "13-06",
+    "tijd": "14:00",
+    "thuisTeam": "Ajax",
+    "uitTeam": "AZ",
+    "zender": "Fox Sports 1",
+    "leaugue": "ED"
+  },
+  {
+    "datum": "13-06",
+    "tijd": "15:00",
+    "thuisTeam": "FC Utrecht",
+    "uitTeam": "FC Groningen",
+    "zender": "Fox Sports 2",
+    "leaugue": "ED"
+  },
+  {
+    "datum": "13-06",
+    "tijd": "15:00",
+    "thuisTeam": "Willem II",
+    "uitTeam": "Fortuna Sittard",
+    "zender": "Fox Sports 3",
+    "leaugue": "ED"
+  },
+  {
+    "datum": "13-06",
+    "tijd": "18:00",
+    "thuisTeam": "Real Madrid",
+    "uitTeam": "Huesca",
+    "zender": "Ziggo Sport Voetbal",
+    "leaugue": "LL"
+  },
+  {
+    "datum": "13-06",
     "tijd": "21:00",
-    "thuisTeam": "Tottenham Hotspur",
-    "uitTeam": "Liverpool",
-    "zender": "Veronica & Ziggo Sport",
+    "thuisTeam": "FC Barcelona",
+    "uitTeam": "Atletico Madrid",
+    "zender": "Ziggo Sport",
+    "leaugue": "LL"
+  },
+  {
+    "datum": "13-06",
+    "tijd": "21:00",
+    "thuisTeam": "Internazionale",
+    "uitTeam": "Lazio",
+    "zender": "Ziggo Sport Voetbal",
+    "leaugue": "SA"
+  },
+  {
+    "datum": "13-06",
+    "tijd": "12:00",
+    "thuisTeam": "Leicester City",
+    "uitTeam": "Fulham",
+    "zender": "Ziggo Sport Docu",
+    "leaugue": "PL"
+  },
+  {
+    "datum": "13-06",
+    "tijd": "13:30",
+    "thuisTeam": "Huddersfield Town",
+    "uitTeam": "Manchester City",
+    "zender": "Ziggo Sport",
+    "leaugue": "PL"
+  },
+  {
+    "datum": "13-06",
+    "tijd": "13:30",
+    "thuisTeam": "VfL Wolfsburg",
+    "uitTeam": "VfB Stuttgart",
+    "zender": "Fox Sports 5",
+    "leaugue": "BL"
+  },
+  {
+    "datum": "13-06",
+    "tijd": "16:30",
+    "thuisTeam": "Union Berlin",
+    "uitTeam": "Bayern Munchen",
+    "zender": "Fox Sports 4",
+    "leaugue": "BL"
+  },
+  {
+    "datum": "14-06",
+    "tijd": "13:45",
+    "thuisTeam": "Borussia Dortmund",
+    "uitTeam": "FC Köln",
+    "zender": "Fox Sports 4",
+    "leaugue": "BL"
+  },
+  {
+    "datum": "14-06",
+    "tijd": "13:45",
+    "thuisTeam": "Liverpool",
+    "uitTeam": "Manchester United",
+    "zender": "Ziggo Sport Golf",
+    "leaugue": "PL"
+  },
+  {
+    "datum": "18-06",
+    "tijd": "21:00",
+    "thuisTeam": "PSG",
+    "uitTeam": "Juventus",
+    "zender": "Veronica",
     "leaugue": "CL"
   },
   {
-    "datum": "01-06",
-    "tijd": "23:00",
-    "thuisTeam": "Montreal Impact",
-    "uitTeam": "Orlando City SC",
-    "zender": "Fox Sports 4",
-    "leaugue": "MLS"
+    "datum": "18-06",
+    "tijd": "21:00",
+    "thuisTeam": "Real Madrid",
+    "uitTeam": "Ajax",
+    "zender": "Veronica",
+    "leaugue": "CL"
   },
   {
-    "datum": "02-06",
-    "tijd": "00:10",
-    "thuisTeam": "Atlanta United",
-    "uitTeam": "Chicago Fire",
-    "zender": "Fox Sports 4",
-    "leaugue": "MLS"
+    "datum": "19-06",
+    "tijd": "21:00",
+    "thuisTeam": "Lokomotiv Moscow",
+    "uitTeam": "Napoli",
+    "zender": "RTL 7",
+    "leaugue": "EL"
   },
   {
-    "datum": "31-05",
-    "tijd": "20:00",
-    "thuisTeam": "Jong Nederland",
-    "uitTeam": "Jong Mexico",
+    "datum": "19-06",
+    "tijd": "21:00",
+    "thuisTeam": "Arsenal",
+    "uitTeam": "AS Roma",
+    "zender": "RTL 7",
+    "leaugue": "EL"
+  },
+  {
+    "datum": "21-06",
+    "tijd": "21:00",
+    "thuisTeam": "Ajax",
+    "uitTeam": "Feyenoord",
     "zender": "Fox Sports 1",
-    "leaugue": ""
+    "leaugue": "ED"
   },
   {
-    "datum": "05-06",
-    "tijd": "20:45",
-    "thuisTeam": "Portugal",
-    "uitTeam": "Zwitserland",
-    "zender": "Ziggo Sport",
-    "leaugue": ""
-  },
-  {
-    "datum": "06-06",
-    "tijd": "20:45",
-    "thuisTeam": "Nederland",
-    "uitTeam": "Engeland",
-    "zender": "NPO 1",
-    "leaugue": ""
-  },
-  {
-    "datum": "11-06",
-    "tijd": "15:00",
-    "thuisTeam": "Nieuw Zeeland Vrouwen",
-    "uitTeam": "Nederland Vrouwen",
-    "zender": "NPO 1",
-    "leaugue": ""
-  },
-  {
-    "datum": "15-06",
-    "tijd": "15:00",
-    "thuisTeam": "Nederland Vrouwen",
-    "uitTeam": "Kameroen Vrouwen",
-    "zender": "NPO 1",
-    "leaugue": ""
-  },
-  {
-    "datum": "20-06",
-    "tijd": "18:00",
-    "thuisTeam": "Nederland Vrouwen",
-    "uitTeam": "Canada Vrouwen",
-    "zender": "NPO 1",
-    "leaugue": ""
+    "datum": "21-06",
+    "tijd": "21:00",
+    "thuisTeam": "NAC",
+    "uitTeam": "NEC",
+    "zender": "Fox Sports 1",
+    "leaugue": "KK"
   }
 ]
