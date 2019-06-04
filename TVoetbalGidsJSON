@@ -142,5 +142,149 @@
     "uitTeam": "NEC",
     "zender": "Fox Sports 1",
     "leaugue": "KK"
+  },
+  {
+    "datum": "05-06",
+    "tijd": "14:00",
+    "thuisTeam": "Ajax",
+    "uitTeam": "AZ",
+    "zender": "Fox Sports 1",
+    "leaugue": "ED"
+  },
+  {
+    "datum": "05-06",
+    "tijd": "15:00",
+    "thuisTeam": "FC Utrecht",
+    "uitTeam": "FC Groningen",
+    "zender": "Fox Sports 2",
+    "leaugue": "ED"
+  },
+  {
+    "datum": "05-06",
+    "tijd": "15:00",
+    "thuisTeam": "Willem II",
+    "uitTeam": "Fortuna Sittard",
+    "zender": "Fox Sports 3",
+    "leaugue": "ED"
+  },
+  {
+    "datum": "05-06",
+    "tijd": "18:00",
+    "thuisTeam": "Real Madrid",
+    "uitTeam": "Huesca",
+    "zender": "Ziggo Sport Voetbal",
+    "leaugue": "LL"
+  },
+  {
+    "datum": "05-06",
+    "tijd": "21:00",
+    "thuisTeam": "FC Barcelona",
+    "uitTeam": "Atletico Madrid",
+    "zender": "Ziggo Sport",
+    "leaugue": "LL"
+  },
+  {
+    "datum": "05-06",
+    "tijd": "21:00",
+    "thuisTeam": "Internazionale",
+    "uitTeam": "Lazio",
+    "zender": "Ziggo Sport Voetbal",
+    "leaugue": "SA"
+  },
+  {
+    "datum": "05-06",
+    "tijd": "12:00",
+    "thuisTeam": "Leicester City",
+    "uitTeam": "Fulham",
+    "zender": "Ziggo Sport Docu",
+    "leaugue": "PL"
+  },
+  {
+    "datum": "05-06",
+    "tijd": "13:30",
+    "thuisTeam": "Huddersfield Town",
+    "uitTeam": "Manchester City",
+    "zender": "Ziggo Sport",
+    "leaugue": "PL"
+  },
+  {
+    "datum": "05-06",
+    "tijd": "13:30",
+    "thuisTeam": "VfL Wolfsburg",
+    "uitTeam": "VfB Stuttgart",
+    "zender": "Fox Sports 5",
+    "leaugue": "BL"
+  },
+  {
+    "datum": "05-06",
+    "tijd": "16:30",
+    "thuisTeam": "Union Berlin",
+    "uitTeam": "Bayern Munchen",
+    "zender": "Fox Sports 4",
+    "leaugue": "BL"
+  },
+  {
+    "datum": "06-06",
+    "tijd": "13:45",
+    "thuisTeam": "Borussia Dortmund",
+    "uitTeam": "FC Köln",
+    "zender": "Fox Sports 4",
+    "leaugue": "BL"
+  },
+  {
+    "datum": "06-06",
+    "tijd": "13:45",
+    "thuisTeam": "Liverpool",
+    "uitTeam": "Manchester United",
+    "zender": "Ziggo Sport Golf",
+    "leaugue": "PL"
+  },
+  {
+    "datum": "09-06",
+    "tijd": "21:00",
+    "thuisTeam": "PSG",
+    "uitTeam": "Juventus",
+    "zender": "Veronica",
+    "leaugue": "CL"
+  },
+  {
+    "datum": "09-06",
+    "tijd": "21:00",
+    "thuisTeam": "Real Madrid",
+    "uitTeam": "Ajax",
+    "zender": "Veronica",
+    "leaugue": "CL"
+  },
+  {
+    "datum": "10-06",
+    "tijd": "21:00",
+    "thuisTeam": "Lokomotiv Moscow",
+    "uitTeam": "Napoli",
+    "zender": "RTL 7",
+    "leaugue": "EL"
+  },
+  {
+    "datum": "10-06",
+    "tijd": "21:00",
+    "thuisTeam": "Arsenal",
+    "uitTeam": "AS Roma",
+    "zender": "RTL 7",
+    "leaugue": "EL"
+  },
+  {
+    "datum": "12-06",
+    "tijd": "21:00",
+    "thuisTeam": "Ajax",
+    "uitTeam": "Feyenoord",
+    "zender": "Fox Sports 1",
+    "leaugue": "ED"
+  },
+  {
+    "datum": "12-06",
+    "tijd": "21:00",
+    "thuisTeam": "NAC",
+    "uitTeam": "NEC",
+    "zender": "Fox Sports 1",
+    "leaugue": "KK"
   }
 ]
