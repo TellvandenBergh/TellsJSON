@@ -1,0 +1,18 @@
+[
+  {
+    "datum": "04-06",
+    "tijd": "21:00",
+    "thuisTeam": "Ajax",
+    "uitTeam": "AZ",
+    "zender": "NPO 1",
+    "leaugue": "ED"
+  },
+  {
+    "datum": "05-06",
+    "tijd": "23:00",
+    "thuisTeam": "Real Madrid",
+    "uitTeam": "FC Barcelona",
+    "zender": "Fox Sports 1",
+    "leaugue": "CL"
+  }
+]
