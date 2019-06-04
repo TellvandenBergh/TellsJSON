@@ -1,18 +1,74 @@
 [
   {
-    "datum": "04-06",
+    "datum": "01-06",
     "tijd": "21:00",
     "thuisTeam": "Tottenham Hotspur",
     "uitTeam": "Liverpool",
-    "zender": "Veronica",
+    "zender": "Veronica & Ziggo Sport",
     "leaugue": "CL"
   },
   {
-    "datum": "05-06",
+    "datum": "01-06",
     "tijd": "23:00",
-    "thuisTeam": "Ajax",
-    "uitTeam": "AZ",
+    "thuisTeam": "Montreal Impact",
+    "uitTeam": "Orlando City SC",
+    "zender": "Fox Sports 4",
+    "leaugue": "MLS"
+  },
+  {
+    "datum": "02-06",
+    "tijd": "00:10",
+    "thuisTeam": "Atlanta United",
+    "uitTeam": "Chicago Fire",
+    "zender": "Fox Sports 4",
+    "leaugue": "MLS"
+  },
+  {
+    "datum": "31-05",
+    "tijd": "20:00",
+    "thuisTeam": "Jong Nederland",
+    "uitTeam": "Jong Mexico",
     "zender": "Fox Sports 1",
-    "leaugue": "ED"
+    "leaugue": ""
+  },
+  {
+    "datum": "05-06",
+    "tijd": "20:45",
+    "thuisTeam": "Portugal",
+    "uitTeam": "Zwitserland",
+    "zender": "Ziggo Sport",
+    "leaugue": ""
+  },
+  {
+    "datum": "06-06",
+    "tijd": "20:45",
+    "thuisTeam": "Nederland",
+    "uitTeam": "Engeland",
+    "zender": "NPO 1",
+    "leaugue": ""
+  },
+  {
+    "datum": "11-06",
+    "tijd": "15:00",
+    "thuisTeam": "Nieuw Zeeland Vrouwen",
+    "uitTeam": "Nederland Vrouwen",
+    "zender": "NPO 1",
+    "leaugue": ""
+  },
+  {
+    "datum": "15-06",
+    "tijd": "15:00",
+    "thuisTeam": "Nederland Vrouwen",
+    "uitTeam": "Kameroen Vrouwen",
+    "zender": "NPO 1",
+    "leaugue": ""
+  },
+  {
+    "datum": "20-06",
+    "tijd": "18:00",
+    "thuisTeam": "Nederland Vrouwen",
+    "uitTeam": "Canada Vrouwen",
+    "zender": "NPO 1",
+    "leaugue": ""
   }
 ]
