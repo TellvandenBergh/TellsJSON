@@ -481,7 +481,7 @@
   },
   {
     "datum": "19-06",
-    "Tijd": "23:15",
+    "tijd": "23:15",
     "thuisTeam": "Colombia",
     "uitTeam": "Qatar",
     "zender": "Fox Sports 4",
@@ -489,7 +489,7 @@
   },
   {
     "datum": "20-06",
-    "Tijd": "02:00",
+    "tijd": "02:00",
     "thuisTeam": "Cuba",
     "uitTeam": "Martinique",
     "zender": "Fox Sports 6",
@@ -497,7 +497,7 @@
   },
   {
     "datum": "20-06",
-    "Tijd": "02:15",
+    "tijd": "02:15",
     "thuisTeam": "Argentinië",
     "uitTeam": "Paraguay",
     "zender": "Fox Sports 4",
@@ -505,7 +505,7 @@
   },
   {
     "datum": "20-06",
-    "Tijd": "04:30",
+    "tijd": "04:30",
     "thuisTeam": "Mexico",
     "uitTeam": "Canada",
     "zender": "Fox Sports 4",
@@ -513,7 +513,7 @@
   },
   {
     "datum": "21-06",
-    "Tijd": "00:45",
+    "tijd": "00:45",
     "thuisTeam": "Uruguay",
     "uitTeam": "Japan",
     "zender": "Fox Sports 4",
@@ -521,7 +521,7 @@
   },
   {
     "datum": "21-06",
-    "Tijd": "01:00",
+    "tijd": "01:00",
     "thuisTeam": "Nicaragua",
     "uitTeam": "Haiti",
     "zender": "Fox Sports 6",
@@ -529,7 +529,7 @@
   },
   {
     "datum": "21-06",
-    "Tijd": "03:30",
+    "tijd": "03:30",
     "thuisTeam": "Costa Rica",
     "uitTeam": "Bermuda",
     "zender": "Fox Sports 6",
