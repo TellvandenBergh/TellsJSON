@@ -154,7 +154,7 @@
   {
     "datum": "08-06",
     "tijd": "21:45",
-    "thuisTeam": "Wit Rusland ",
+    "thuisTeam": "Wit Rusland",
     "uitTeam": "Duitsland",
     "zender": "Ziggo Sport",
     "leaugue": "EK"
@@ -162,7 +162,7 @@
   {
     "datum": "08-06",
     "tijd": "14:50",
-    "thuisTeam": "Kroatië ",
+    "thuisTeam": "Kroatië",
     "uitTeam": "Wales",
     "zender": "Ziggo Sport Voetbal",
     "leaugue": "EK"
@@ -170,7 +170,7 @@
   {
     "datum": "08-06",
     "tijd": "17:50",
-    "thuisTeam": "Estland ",
+    "thuisTeam": "Estland",
     "uitTeam": "Noord Ierland",
     "zender": "Ziggo Sport Voetbal",
     "leaugue": "EK"
@@ -178,7 +178,7 @@
   {
     "datum": "08-06",
     "tijd": "20:35",
-    "thuisTeam": "Turkije ",
+    "thuisTeam": "Turkije",
     "uitTeam": "Frankrijk",
     "zender": "Ziggo Sport Extra",
     "leaugue": "EK"
@@ -186,7 +186,7 @@
   {
     "datum": "08-06",
     "tijd": "14:50",
-    "thuisTeam": "IJsland ",
+    "thuisTeam": "IJsland",
     "uitTeam": "Albanië",
     "zender": "Ziggo Sport Extra",
     "leaugue": "EK"
@@ -194,15 +194,7 @@
   {
     "datum": "08-06",
     "tijd": "17:50",
-    "thuisTeam": "Finland ",
-    "uitTeam": "Bosnië Herzegovina",
-    "zender": "Ziggo Sport Extra",
-    "leaugue": "EK"
-  },
-  {
-    "datum": "08-06",
-    "tijd": "17:50",
-    "thuisTeam": "Finland ",
+    "thuisTeam": "Finland",
     "uitTeam": "Bosnië Herzegovina",
     "zender": "Ziggo Sport Extra",
     "leaugue": "EK"
