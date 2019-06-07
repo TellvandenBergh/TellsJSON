@@ -232,14 +232,6 @@
     "leaugue": "EK"
   },
   {
-    "datum": "10-06",
-    "tijd": "20:35",
-    "thuisTeam": "Denemarken",
-    "uitTeam": "Georgië",
-    "zender": "Ziggo Sport Extra",
-    "leaugue": "EK"
-  },
-  {
     "datum": "11-06",
     "tijd": "17:50",
     "thuisTeam": "Azerbeidzjan",
@@ -481,35 +473,35 @@
   },
   {
     "datum": "20-06",
-    "tijd": "02:00",
     "thuisTeam": "Cuba",
     "uitTeam": "Martinique",
     "zender": "Fox Sports 6",
-    "leaugue": "GC"
+    "leaugue": "GC",
+    "tijd": "02:00"
   },
   {
     "datum": "20-06",
-    "tijd": "02:15",
     "thuisTeam": "Argentinië",
     "uitTeam": "Paraguay",
     "zender": "Fox Sports 4",
-    "leaugue": "CA"
+    "leaugue": "CA",
+    "tijd": "02:15"
   },
   {
     "datum": "20-06",
-    "tijd": "04:30",
     "thuisTeam": "Mexico",
     "uitTeam": "Canada",
     "zender": "Fox Sports 4",
-    "leaugue": "GC"
+    "leaugue": "GC",
+    "tijd": "04:30"
   },
   {
     "datum": "21-06",
-    "tijd": "00:45",
     "thuisTeam": "Uruguay",
     "uitTeam": "Japan",
     "zender": "Fox Sports 4",
-    "leaugue": "CA"
+    "leaugue": "CA",
+    "tijd": "00:45"
   },
   {
     "datum": "21-06",
@@ -521,11 +513,10 @@
   },
   {
     "datum": "21-06",
-    "tijd": "03:30",
     "thuisTeam": "Costa Rica",
     "uitTeam": "Bermuda",
     "zender": "Fox Sports 6",
-    "leaugue": "GC"
+    "leaugue": "GC",
+    "tijd": "03:30"
   }
 ]
-
