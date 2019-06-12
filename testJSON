@@ -138,8 +138,8 @@
   {
     "datum": "13-06",
     "tijd": "13:00",
-    "thuisTeam": "Bayern München",
-    "uitTeam": "RB Lepzig",
+    "thuisTeam": "Bayern Munchen",
+    "uitTeam": "RB Leipzig",
     "zender": "Fox Sports 4",
     "leaugue": "BL"
   },
@@ -198,14 +198,6 @@
     "uitTeam": "Feyenoord",
     "zender": "RTL 7",
     "leaugue": "EL"
-  },
-  {
-    "datum": "18-06",
-    "tijd": "12:00",
-    "thuisTeam": "FC Utrecht",
-    "uitTeam": "Ajax",
-    "zender": "Fox Sports 1",
-    "leaugue": "ED"
   },
   {
     "datum": "18-06",
