@@ -26,7 +26,7 @@
   {
     "datum": "13-06",
     "tijd": "12:00",
-    "thuisTeam": "Sparta",
+    "thuisTeam": "Sparta Rotterdam",
     "uitTeam": "FC Twente",
     "zender": "Fox Sports 2",
     "leaugue": "KD"
@@ -98,14 +98,6 @@
   {
     "datum": "14-06",
     "tijd": "16:30",
-    "thuisTeam": "Valencia",
-    "uitTeam": "Sevilla",
-    "zender": "Ziggo Sport Golf",
-    "leaugue": "LL"
-  },
-  {
-    "datum": "14-06",
-    "tijd": "16:30",
     "thuisTeam": "Willem II",
     "uitTeam": "ADO Den Haag",
     "zender": "Fox Sports 3",
@@ -146,21 +138,21 @@
   {
     "datum": "13-06",
     "tijd": "13:00",
-    "thuisTeam": "Bayern Muncen",
-    "uitTeam": "Hanover 96",
+    "thuisTeam": "Bayern München",
+    "uitTeam": "RB Lepzig",
     "zender": "Fox Sports 4",
     "leaugue": "BL"
   },
   {
     "datum": "14-06",
     "tijd": "17:45",
-    "thuisTeam": "Herta BSC",
-    "uitTeam": "FC Nürnberg",
+    "thuisTeam": "SC Freiburg",
+    "uitTeam": "Fortuna Dusseldorf",
     "zender": "Fox Sports 4",
     "leaugue": "BL"
   },
   {
-    "datum": "18-06",
+    "datum": "16-06",
     "tijd": "21:00",
     "thuisTeam": "PSG",
     "uitTeam": "Juventus",
@@ -168,7 +160,7 @@
     "leaugue": "CL"
   },
   {
-    "datum": "18-06",
+    "datum": "16-06",
     "tijd": "21:00",
     "thuisTeam": "Real Madrid",
     "uitTeam": "Ajax",
@@ -176,7 +168,7 @@
     "leaugue": "CL"
   },
   {
-    "datum": "19-06",
+    "datum": "16-06",
     "tijd": "21:00",
     "thuisTeam": "Liverpool",
     "uitTeam": "FC Barcelona",
@@ -184,15 +176,15 @@
     "leaugue": "CL"
   },
   {
-    "datum": "19-06",
+    "datum": "16-06",
     "tijd": "21:00",
     "thuisTeam": "Manchester City",
-    "uitTeam": "Borussia Dortmunt",
+    "uitTeam": "Borussia Dortmund",
     "zender": "Veronica",
     "leaugue": "CL"
   },
   {
-    "datum": "20-06",
+    "datum": "17-06",
     "tijd": "21:00",
     "thuisTeam": "AZ",
     "uitTeam": "Bayer Leverkusen",
@@ -200,7 +192,7 @@
     "leaugue": "EL"
   },
   {
-    "datum": "20-06",
+    "datum": "17-06",
     "tijd": "19:00",
     "thuisTeam": "Napoli",
     "uitTeam": "Feyenoord",
@@ -208,7 +200,7 @@
     "leaugue": "EL"
   },
   {
-    "datum": "21-06",
+    "datum": "18-06",
     "tijd": "12:00",
     "thuisTeam": "FC Utrecht",
     "uitTeam": "Ajax",
@@ -216,7 +208,7 @@
     "leaugue": "ED"
   },
   {
-    "datum": "21-06",
+    "datum": "18-06",
     "tijd": "12:00",
     "thuisTeam": "FC Utrecht",
     "uitTeam": "Ajax",
@@ -224,7 +216,7 @@
     "leaugue": "ED"
   },
   {
-    "datum": "21-06",
+    "datum": "18-06",
     "tijd": "18:00",
     "thuisTeam": "AS Roma",
     "uitTeam": "Genoa",
@@ -232,7 +224,7 @@
     "leaugue": "SA"
   },
   {
-    "datum": "21-06",
+    "datum": "18-06",
     "tijd": "20:00",
     "thuisTeam": "Internazionale",
     "uitTeam": "AC Milan",
@@ -240,7 +232,7 @@
     "leaugue": "SA"
   },
   {
-    "datum": "21-06",
+    "datum": "18-06",
     "tijd": "14:00",
     "thuisTeam": "Go Ahead Eagles",
     "uitTeam": "TOP Oss",
@@ -248,7 +240,7 @@
     "leaugue": "KD"
   },
   {
-    "datum": "21-06",
+    "datum": "18-06",
     "tijd": "20:00",
     "thuisTeam": "Real Madrid",
     "uitTeam": "FC Barcelona",
