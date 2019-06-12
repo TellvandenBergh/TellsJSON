@@ -1,5 +1,13 @@
 [
   {
+    "datum": "12-06",
+    "tijd": "14:00",
+    "thuisTeam": "Real Madrid",
+    "uitTeam": "Feyenoord",
+    "zender": "Fox Sports 1",
+    "leaugue": "ED"
+  },
+  {
     "datum": "13-06",
     "tijd": "14:00",
     "thuisTeam": "AZ",
@@ -152,7 +160,7 @@
     "leaugue": "BL"
   },
   {
-    "datum": "16-06",
+    "datum": "15-06",
     "tijd": "21:00",
     "thuisTeam": "PSG",
     "uitTeam": "Juventus",
@@ -160,7 +168,7 @@
     "leaugue": "CL"
   },
   {
-    "datum": "16-06",
+    "datum": "15-06",
     "tijd": "21:00",
     "thuisTeam": "Real Madrid",
     "uitTeam": "Ajax",
