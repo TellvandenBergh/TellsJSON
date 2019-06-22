@@ -1,77 +1,5 @@
 [
   {
-    "datum": "20-06",
-    "tijd": "18:00",
-    "thuisTeam": "Nederland Vrouwen",
-    "uitTeam": "Canada Vrouwen",
-    "zender": "NPO 1",
-    "leaugue": "WK"
-  },
-  {
-    "datum": "20-06",
-    "tijd": "21:00",
-    "thuisTeam": "Zweden Vrouwen",
-    "uitTeam": "VS Vrouwen",
-    "zender": "NPO 3",
-    "leaugue": "WK"
-  },
-  {
-    "datum": "21-06",
-    "tijd": "01:00",
-    "thuisTeam": "Uruguay",
-    "uitTeam": "Japan",
-    "zender": "Fox Sports 4",
-    "leaugue": "CA"
-  },
-  {
-    "datum": "21-06",
-    "tijd": "01:00",
-    "thuisTeam": "Nicaragua",
-    "uitTeam": "Haiti",
-    "zender": "Fox Sports 6",
-    "leaugue": "GC"
-  },
-  {
-    "datum": "21-06",
-    "tijd": "03:30",
-    "thuisTeam": "Costa Rica",
-    "uitTeam": "Bermuda",
-    "zender": "Fox Sports 4",
-    "leaugue": "GC"
-  },
-  {
-    "datum": "21-06",
-    "tijd": "22:00",
-    "thuisTeam": "Egypte",
-    "uitTeam": "Zimbabwe",
-    "zender": "Fox Sports 4",
-    "leaugue": "AC"
-  },
-  {
-    "datum": "22-06",
-    "tijd": "01:00",
-    "thuisTeam": "Ecuador",
-    "uitTeam": "Chili",
-    "zender": "Fox Sports 4",
-    "leaugue": "CA"
-  },
-  {
-    "datum": "22-06",
-    "tijd": "01:00",
-    "thuisTeam": "El Salvador",
-    "uitTeam": "Jamaica",
-    "zender": "Fox Sports 5",
-    "leaugue": "GC"
-  },
-  {
-    "datum": "22-06",
-    "tijd": "03:30",
-    "thuisTeam": "Honduras",
-    "uitTeam": "Curaçao",
-    "zender": "Fox Sports 1",
-    "leaugue": "GC"
-  },
-  {
     "datum": "22-06",
     "tijd": "16:30",
     "thuisTeam": "Congo-Kinshasa",
@@ -262,5 +190,93 @@
     "uitTeam": "El Salvador",
     "zender": "Fox Sports 4",
     "leaugue": "GC"
+  },
+  {
+    "datum": "26-06",
+    "tijd": "04:30",
+    "thuisTeam": "Honduras",
+    "uitTeam": "El Salvador",
+    "zender": "Fox Sports 4",
+    "leaugue": "GC"
+  },
+  {
+    "datum": "27-06",
+    "tijd": "00:30",
+    "thuisTeam": "Trinidad en Tobago",
+    "uitTeam": "Guyana",
+    "zender": "Fox Sports 4",
+    "leaugue": "GC"
+  },
+  {
+    "datum": "27-06",
+    "tijd": "03:00",
+    "thuisTeam": "Panama",
+    "uitTeam": "VS",
+    "zender": "Fox Sports 4",
+    "leaugue": "GC"
+  },
+  {
+    "datum": "22-06",
+    "tijd": "17:30",
+    "thuisTeam": "Duitsland Vrouwen",
+    "uitTeam": "Nigeria Vrouwen",
+    "zender": "BBC Two",
+    "leaugue": "WK"
+  },
+  {
+    "datum": "22-06",
+    "tijd": "21:00",
+    "thuisTeam": "Noorwegen Vrouwen",
+    "uitTeam": "Australië Vrouwen",
+    "zender": "NPO 3",
+    "leaugue": "WK"
+  },
+  {
+    "datum": "23-06",
+    "tijd": "17:30",
+    "thuisTeam": "Engeland Vrouwen",
+    "uitTeam": "Kameroen Vrouwen",
+    "zender": "NPO 1",
+    "leaugue": "WK"
+  },
+  {
+    "datum": "23-06",
+    "tijd": "21:00",
+    "thuisTeam": "Frankrijk Vrouwen",
+    "uitTeam": "Brazilië  Vrouwen",
+    "zender": "NPO 3",
+    "leaugue": "WK"
+  },
+  {
+    "datum": "24-06",
+    "tijd": "18:00",
+    "thuisTeam": "Spanje Vrouwen",
+    "uitTeam": "VS Vrouwen",
+    "zender": "BBC Two",
+    "leaugue": "WK"
+  },
+  {
+    "datum": "24-06",
+    "tijd": "21:00",
+    "thuisTeam": "Zweden Vrouwen",
+    "uitTeam": "Canada  Vrouwen",
+    "zender": "NPO 3",
+    "leaugue": "WK"
+  },
+  {
+    "datum": "25-06",
+    "tijd": "18:00",
+    "thuisTeam": "Italië Vrouwen",
+    "uitTeam": "China Vrouwen",
+    "zender": "NPO 2",
+    "leaugue": "WK"
+  },
+  {
+    "datum": "25-06",
+    "tijd": "21:00",
+    "thuisTeam": "Nederland Vrouwen",
+    "uitTeam": "Japan  Vrouwen",
+    "zender": "NPO 3",
+    "leaugue": "WK"
   }
 ]
