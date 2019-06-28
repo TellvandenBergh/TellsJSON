@@ -11,7 +11,7 @@
     "datum": "29-06",
     "tijd": "15:00",
     "thuisTeam": "Italië Vrouwen",
-    "uitTeam": "Nederland  Vrouwen",
+    "uitTeam": "Nederland Vrouwen",
     "zender": "NPO 1",
     "leaugue": "WK"
   },
@@ -19,7 +19,7 @@
     "datum": "29-06",
     "tijd": "18:30",
     "thuisTeam": "Duitsland Vrouwen",
-    "uitTeam": "Zweden  Vrouwen",
+    "uitTeam": "Zweden Vrouwen",
     "zender": "NPO 3",
     "leaugue": "WK"
   },
@@ -29,14 +29,6 @@
     "thuisTeam": "Tunesië",
     "uitTeam": "Mali",
     "zender": "Fox Sports 4",
-    "leaugue": "AC"
-  },
-  {
-    "datum": "28-06",
-    "tijd": "19:00",
-    "thuisTeam": "Marokko",
-    "uitTeam": "Ivoorkust",
-    "zender": "Fox Sports 1",
     "leaugue": "AC"
   },
   {
@@ -67,7 +59,7 @@
     "datum": "29-06",
     "tijd": "01:00",
     "thuisTeam": "Colombia",
-    "uitTeam": "Chilli",
+    "uitTeam": "Chili",
     "zender": "Fox Sports 4",
     "leaugue": "CA"
   },
