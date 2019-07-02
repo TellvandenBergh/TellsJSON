@@ -1,203 +1,27 @@
 [
   {
-    "datum": "28-06",
+    "datum": "02-07",
     "tijd": "21:00",
-    "thuisTeam": "Frankrijk Vrouwen",
+    "thuisTeam": "Engeland Vrouwen",
     "uitTeam": "VS Vrouwen",
     "zender": "NPO 3",
     "leaugue": "WK"
   },
   {
-    "datum": "29-06",
-    "tijd": "15:00",
-    "thuisTeam": "Italië Vrouwen",
-    "uitTeam": "Nederland Vrouwen",
+    "datum": "03-07",
+    "tijd": "21:00",
+    "thuisTeam": "Nederland Vrouwen",
+    "uitTeam": "Zweden Vrouwen",
     "zender": "NPO 1",
     "leaugue": "WK"
   },
   {
-    "datum": "29-06",
-    "tijd": "18:30",
-    "thuisTeam": "Duitsland Vrouwen",
-    "uitTeam": "Zweden Vrouwen",
-    "zender": "NPO 3",
-    "leaugue": "WK"
-  },
-  {
-    "datum": "28-06",
-    "tijd": "16:30",
-    "thuisTeam": "Tunesië",
-    "uitTeam": "Mali",
-    "zender": "Fox Sports 4",
-    "leaugue": "AC"
-  },
-  {
-    "datum": "28-06",
-    "tijd": "19:00",
-    "thuisTeam": "Marokko",
-    "uitTeam": "Ivoorkust",
-    "zender": "Fox Sports 1",
-    "leaugue": "AC"
-  },
-  {
-    "datum": "28-06",
-    "tijd": "21:00",
-    "thuisTeam": "Venezuela",
+    "datum": "03-07",
+    "tijd": "02:30",
+    "thuisTeam": "Brazillië",
     "uitTeam": "Argentinië",
-    "zender": "Fox Sports 5",
-    "leaugue": "CA"
-  },
-  {
-    "datum": "28-06",
-    "tijd": "22:00",
-    "thuisTeam": "Zuid Afrika",
-    "uitTeam": "Namibië",
-    "zender": "Fox Sports 6",
-    "leaugue": "AC"
-  },
-  {
-    "datum": "29-06",
-    "tijd": "01:00",
-    "thuisTeam": "Colombia",
-    "uitTeam": "Chili",
     "zender": "Fox Sports 4",
     "leaugue": "CA"
-  },
-  {
-    "datum": "29-06",
-    "tijd": "12:00",
-    "thuisTeam": "Ajax",
-    "uitTeam": "Aalborg",
-    "zender": "Ziggo Sport",
-    "leaugue": ""
-  },
-  {
-    "datum": "29-06",
-    "tijd": "16:00",
-    "thuisTeam": "Putten",
-    "uitTeam": "Feyenoord",
-    "zender": "Fox Sports 1",
-    "leaugue": ""
-  },
-  {
-    "datum": "29-06",
-    "tijd": "16:30",
-    "thuisTeam": "Mauritanië",
-    "uitTeam": "Angola",
-    "zender": "Fox Sports 4",
-    "leaugue": "AC"
-  },
-  {
-    "datum": "29-06",
-    "tijd": "19:00",
-    "thuisTeam": "Kameroen",
-    "uitTeam": "Ghana",
-    "zender": "Fox Sports 4",
-    "leaugue": "AC"
-  },
-  {
-    "datum": "29-06",
-    "tijd": "21:00",
-    "thuisTeam": "Uruguay",
-    "uitTeam": "Peru",
-    "zender": "Fox Sports 4",
-    "leaugue": "CA"
-  },
-  {
-    "datum": "29-06",
-    "tijd": "22:00",
-    "thuisTeam": "Benin",
-    "uitTeam": "Guinee-Bissau",
-    "zender": "Fox Sports 5",
-    "leaugue": "AC"
-  },
-  {
-    "datum": "30-06",
-    "tijd": "01:00",
-    "thuisTeam": "Haïti",
-    "uitTeam": "Canada",
-    "zender": "Fox Sports 4",
-    "leaugue": "GC"
-  },
-  {
-    "datum": "30-06",
-    "tijd": "04:00",
-    "thuisTeam": "Mexico",
-    "uitTeam": "Costa Rica",
-    "zender": "Fox Sports 4",
-    "leaugue": "GC"
-  },
-  {
-    "datum": "30-06",
-    "tijd": "18:00",
-    "thuisTeam": "Brundi",
-    "uitTeam": "Guinee",
-    "zender": "Fox Sports 5",
-    "leaugue": "AC"
-  },
-  {
-    "datum": "30-06",
-    "tijd": "18:00",
-    "thuisTeam": "Madagascar",
-    "uitTeam": "Nigeria",
-    "zender": "Fox Sports 4",
-    "leaugue": "AC"
-  },
-  {
-    "datum": "30-06",
-    "tijd": "21:00",
-    "thuisTeam": "Oeganda",
-    "uitTeam": "Egypte",
-    "zender": "Fox Sports 4",
-    "leaugue": "AC"
-  },
-  {
-    "datum": "30-06",
-    "tijd": "21:00",
-    "thuisTeam": "Zimbabwe",
-    "uitTeam": "Congo",
-    "zender": "Fox Sports 5",
-    "leaugue": "AC"
-  },
-  {
-    "datum": "01-07",
-    "tijd": "18:00",
-    "thuisTeam": "Zuid Afrika",
-    "uitTeam": "Marokko",
-    "zender": "Fox Sports 1",
-    "leaugue": "AC"
-  },
-  {
-    "datum": "01-07",
-    "tijd": "18:00",
-    "thuisTeam": "Namibië",
-    "uitTeam": "Ivoorkust",
-    "zender": "Fox Sports 5",
-    "leaugue": "AC"
-  },
-  {
-    "datum": "01-07",
-    "tijd": "21:00",
-    "thuisTeam": "Tanzania",
-    "uitTeam": "Algerije",
-    "zender": "Fox Sports 4",
-    "leaugue": "AC"
-  },
-  {
-    "datum": "01-07",
-    "tijd": "21:00",
-    "thuisTeam": "Kenia",
-    "uitTeam": "Senegal",
-    "zender": "Fox Sports 5",
-    "leaugue": "AC"
-  },
-  {
-    "datum": "02-07",
-    "tijd": "18:00",
-    "thuisTeam": "Benin",
-    "uitTeam": "Kameroen",
-    "zender": "Fox Sports 4",
-    "leaugue": "AC"
   },
   {
     "datum": "02-07",
@@ -222,5 +46,45 @@
     "uitTeam": "Tunesië",
     "zender": "Fox Sports 4",
     "leaugue": "AC"
+  },
+  {
+    "datum": "03-07",
+    "tijd": "04:00",
+    "thuisTeam": "Haïti",
+    "uitTeam": "Mexico",
+    "zender": "Fox Sports 6",
+    "leaugue": "GC"
+  },
+  {
+    "datum": "04-07",
+    "tijd": "02:30",
+    "thuisTeam": "Chili",
+    "uitTeam": "Peru",
+    "zender": "Fox Sports 4",
+    "leaugue": "CA"
+  },
+  {
+    "datum": "04-07",
+    "tijd": "03:00",
+    "thuisTeam": "Jamaica",
+    "uitTeam": "VS",
+    "zender": "Fox Sports 5",
+    "leaugue": "GC"
+  },
+  {
+    "datum": "06-07",
+    "tijd": "15:00",
+    "thuisTeam": "FC Doordrecht",
+    "uitTeam": "Feyenoord",
+    "zender": "Fox Sports 1",
+    "leaugue": ""
+  },
+  {
+    "datum": "06-07",
+    "tijd": "19:00",
+    "thuisTeam": "Ajax",
+    "uitTeam": "Anderlecht",
+    "zender": "Ziggo Sport",
+    "leaugue": ""
   }
 ]
