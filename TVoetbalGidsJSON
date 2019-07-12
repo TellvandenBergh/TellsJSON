@@ -1,97 +1,113 @@
 [
   {
-    "datum": "06-07",
-    "tijd": "15:00",
-    "thuisTeam": "FC Doordrecht",
-    "uitTeam": "Feyenoord",
-    "zender": "Fox Sports 1",
+    "datum": "12-07",
+    "tijd": "17:30",
+    "thuisTeam": "Borussia Dortmund",
+    "uitTeam": "FC Schweingberg",
+    "zender": "Fox Sports 4",
     "leaugue": ""
   },
   {
-    "datum": "06-07",
-    "tijd": "19:00",
+    "datum": "13-07",
+    "tijd": "01:00",
+    "thuisTeam": "D.C. United",
+    "uitTeam": "New England Revolution",
+    "zender": "Fox Sports 4",
+    "leaugue": "MLS"
+  },
+  {
+    "datum": "13-07",
+    "tijd": "03:00",
+    "thuisTeam": "Houston Dynamo",
+    "uitTeam": "Los Angeles FC",
+    "zender": "Fox Sports 4",
+    "leaugue": "MLS"
+  },
+  {
+    "datum": "13-07",
+    "tijd": "05:00",
+    "thuisTeam": "LA Galaxy",
+    "uitTeam": "San Jose Earthquakes",
+    "zender": "Fox Sports 4",
+    "leaugue": "MLS"
+  },
+  {
+    "datum": "14-07",
+    "tijd": "01:30",
+    "thuisTeam": "Montreal Impact",
+    "uitTeam": "Toronto FC",
+    "zender": "Fox Sports 4",
+    "leaugue": "MLS"
+  },
+  {
+    "datum": "14-07",
+    "tijd": "04:00",
+    "thuisTeam": "Real Salt Lake",
+    "uitTeam": "Philadelphia Union",
+    "zender": "Fox Sports 4",
+    "leaugue": "MLS"
+  },
+  {
+    "datum": "14-07",
+    "tijd": "18:00",
     "thuisTeam": "Ajax",
-    "uitTeam": "Anderlecht",
-    "zender": "Ziggo Sport",
+    "uitTeam": "İstanbul Başakşehir",
+    "zender": "Zigoo Sport",
     "leaugue": ""
   },
   {
-    "datum": "05-07",
+    "datum": "14-07",
+    "tijd": "22:00",
+    "thuisTeam": "Seattle Sounders FC",
+    "uitTeam": "Atlanta United",
+    "zender": "Fox Sports 5",
+    "leaugue": "MLS"
+  },
+  {
+    "datum": "15-07",
+    "tijd": "00:30",
+    "thuisTeam": "New York Red Bulls",
+    "uitTeam": "New York City FC",
+    "zender": "Fox Sports 4",
+    "leaugue": "MLS"
+  },
+  {
+    "datum": "16-07",
+    "tijd": "03:00",
+    "thuisTeam": "Colorado Rapids",
+    "uitTeam": "Arsenal",
+    "zender": "Fox Sports 4",
+    "leaugue": ""
+  },
+  {
+    "datum": "14-07",
     "tijd": "18:00",
-    "thuisTeam": "Marokko",
-    "uitTeam": "Benin",
+    "thuisTeam": "Senegal",
+    "uitTeam": "Tunesië",
+    "zender": "Fox Sports 4",
+    "leaugue": "AC"
+  },
+  {
+    "datum": "14-07",
+    "tijd": "18:00",
+    "thuisTeam": "Senegal",
+    "uitTeam": "Tunesië",
     "zender": "Fox Sports 1",
     "leaugue": "AC"
   },
   {
-    "datum": "05-07",
-    "tijd": "21:00",
-    "thuisTeam": "Oeganda",
-    "uitTeam": "Senegal",
-    "zender": "Fox Sports 4",
-    "leaugue": "AC"
-  },
-  {
-    "datum": "06-07",
-    "tijd": "17:00",
-    "thuisTeam": "Engeland Vrouwen",
-    "uitTeam": "Zweden Vrouwen",
-    "zender": "NPO 1",
-    "leaugue": "WK"
-  },
-  {
-    "datum": "06-07",
-    "tijd": "18:00",
-    "thuisTeam": "Nigeria",
-    "uitTeam": "Kameroen",
-    "zender": "Fox Sports 4",
-    "leaugue": "AC"
-  },
-  {
-    "datum": "06-07",
-    "tijd": "21:00",
-    "thuisTeam": "Egypte",
-    "uitTeam": "Zuid Afrika",
-    "zender": "Fox Sports 4",
-    "leaugue": "AC"
-  },
-  {
-    "datum": "07-07",
-    "tijd": "17:00",
-    "thuisTeam": "VS Vrouwen",
-    "uitTeam": "Nederland Vrouwen",
-    "zender": "NPO 1",
-    "leaugue": "WK"
-  },
-  {
-    "datum": "07-07",
-    "tijd": "18:00",
-    "thuisTeam": "Madagaskar",
-    "uitTeam": "Congo-Kinshasa",
-    "zender": "Fox Sports 4",
-    "leaugue": "AC"
-  },
-  {
-    "datum": "07-07",
+    "datum": "14-07",
     "tijd": "21:00",
     "thuisTeam": "Algerije",
-    "uitTeam": "Guinee",
-    "zender": "Fox Sports 5",
+    "uitTeam": "Nigeria",
+    "zender": "Fox Sports 1",
     "leaugue": "AC"
   },
   {
-    "datum": "08-07",
-    "tijd": "18:00",
-    "thuisTeam": "Mali",
-    "uitTeam": "Ivoorkust",
-    "zender": "Fox Sports 4",
-    "leaugue": "AC"
-  },
-  {
-    "datum": "08-07",
+    "datum": "14-07",
     "tijd": "21:00",
-    "thuisTeam": "Ghana",
-    "uitTeam": "Tunesië",
+    "thuisTeam": "Algerije",
+    "uitTeam": "Nigeria",
     "zender": "Fox Sports 4",
     "leaugue": "AC"
   }
