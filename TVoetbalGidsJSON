@@ -9,6 +9,14 @@
   },
   {
     "datum": "17-07",
+    "tijd": "20:45",
+    "thuisTeam": "Tunesië",
+    "uitTeam": "Nigeria",
+    "zender": "Fox Sports 4",
+    "leaugue": "AC"
+  },
+  {
+    "datum": "17-07",
     "tijd": "14:30",
     "thuisTeam": "Manchester City",
     "uitTeam": "West Ham United",
@@ -46,5 +54,29 @@
     "uitTeam": "D.C. United",
     "zender": "Ziggo Sport",
     "leaugue": "MLS"
+  },
+  {
+    "datum": "19-07",
+    "tijd": "02:00",
+    "thuisTeam": "FC Cincinnati",
+    "uitTeam": "D.C. United",
+    "zender": "Ziggo Sport",
+    "leaugue": "MLS"
+  },
+  {
+    "datum": "19-07",
+    "tijd": "21:00",
+    "thuisTeam": "Senegal",
+    "uitTeam": "Algerije",
+    "zender": "Fox Sports 1",
+    "leaugue": "AC"
+  },
+  {
+    "datum": "19-07",
+    "tijd": "21:00",
+    "thuisTeam": "Senegal",
+    "uitTeam": "Algerije",
+    "zender": "Fox Sports 4",
+    "leaugue": "AC"
   }
 ]
