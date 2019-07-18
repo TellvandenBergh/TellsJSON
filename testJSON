@@ -2,105 +2,17 @@
   {
     "datum": "22-07",
     "tijd": "16:30",
-    "thuisTeam": "Congo-Kinshasa",
-    "uitTeam": "Oeganda",
-    "zender": "Fox Sports 4",
-    "leaugue": "AC"
-  },
-  {
-    "datum": "22-07",
-    "tijd": "19:00",
-    "thuisTeam": "Nigeria",
-    "uitTeam": "Burundi",
-    "zender": "Fox Sports 4",
-    "leaugue": "AC"
-  },
-  {
-    "datum": "22-07",
-    "tijd": "21:00",
-    "thuisTeam": "Bolivia",
-    "uitTeam": "Venezuela",
-    "zender": "Fox Sports 6",
-    "leaugue": "CA"
-  },
-  {
-    "datum": "22-07",
-    "tijd": "21:00",
-    "thuisTeam": "Peru",
-    "uitTeam": "Brazilië",
-    "zender": "Fox Sports 4",
-    "leaugue": "CA"
-  },
-  {
-    "datum": "22-07",
-    "tijd": "21:00",
-    "thuisTeam": "Guinee",
-    "uitTeam": "Madagaskar",
-    "zender": "Fox Sports 5",
-    "leaugue": "AC"
-  },
-  {
-    "datum": "22-07",
-    "tijd": "23:30",
-    "thuisTeam": "Guyana",
-    "uitTeam": "Panama",
-    "zender": "Fox Sports 4",
-    "leaugue": "GC"
-  },
-  {
-    "datum": "23-07",
-    "tijd": "02:00",
-    "thuisTeam": "VS",
-    "uitTeam": "Trinidad en Tobago",
-    "zender": "Fox Sports 4",
-    "leaugue": "GC"
-  },
-  {
-    "datum": "23-07",
-    "tijd": "16:30",
-    "thuisTeam": "Marokko",
-    "uitTeam": "Namibië",
-    "zender": "Fox Sports 4",
-    "leaugue": "AC"
+    "thuisTeam": "Real Madrid",
+    "uitTeam": "Juventus",
+    "zender": "Veronica",
+    "leaugue": "LL"
   },
   {
     "datum": "23-07",
     "tijd": "19:00",
-    "thuisTeam": "Senegal",
-    "uitTeam": "Tanzania",
-    "zender": "Fox Sports 4",
-    "leaugue": "AC"
-  },
-  {
-    "datum": "23-07",
-    "tijd": "21:00",
-    "thuisTeam": "Qatar",
-    "uitTeam": "Argentinië",
-    "zender": "Fox Sports 4",
-    "leaugue": "CA"
-  },
-  {
-    "datum": "23-07",
-    "tijd": "22:00",
-    "thuisTeam": "Algerije",
-    "uitTeam": "Kenia",
-    "zender": "Fox Sports 5",
-    "leaugue": "AC"
-  },
-  {
-    "datum": "24-07",
-    "tijd": "00:00",
-    "thuisTeam": "Canada",
-    "uitTeam": "Cuba",
-    "zender": "Fox Sports 4",
-    "leaugue": "GC"
-  },
-  {
-    "datum": "24-07",
-    "tijd": "02:30",
-    "thuisTeam": "Martinique",
-    "uitTeam": "Mexico",
-    "zender": "Fox Sports 4",
-    "leaugue": "GC"
+    "thuisTeam": "Ajax",
+    "uitTeam": "AZ",
+    "zender": "Fox Sports 1",
+    "leaugue": "ED"
   }
 ]
