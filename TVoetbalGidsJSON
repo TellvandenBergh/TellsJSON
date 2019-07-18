@@ -1,37 +1,5 @@
 [
   {
-    "datum": "17-07",
-    "tijd": "12:00",
-    "thuisTeam": "Newcastle United",
-    "uitTeam": "Wolverhampton Wanderers",
-    "zender": "Ziggo Sport",
-    "leaugue": ""
-  },
-  {
-    "datum": "17-07",
-    "tijd": "20:45",
-    "thuisTeam": "Tunesië",
-    "uitTeam": "Nigeria",
-    "zender": "Fox Sports 4",
-    "leaugue": "AC"
-  },
-  {
-    "datum": "17-07",
-    "tijd": "14:30",
-    "thuisTeam": "Manchester City",
-    "uitTeam": "West Ham United",
-    "zender": "Ziggo Sport",
-    "leaugue": ""
-  },
-  {
-    "datum": "17-07",
-    "tijd": "19:00",
-    "thuisTeam": "PSV",
-    "uitTeam": "Wolfsburg",
-    "zender": "Fox Sports 1",
-    "leaugue": ""
-  },
-  {
     "datum": "18-07",
     "tijd": "01:00",
     "thuisTeam": "Atlanta United",
@@ -46,14 +14,6 @@
     "uitTeam": "Watford",
     "zender": "Ziggo Sport",
     "leaugue": ""
-  },
-  {
-    "datum": "19-07",
-    "tijd": "02:00",
-    "thuisTeam": "FC Cincinnati",
-    "uitTeam": "D.C. United",
-    "zender": "Ziggo Sport",
-    "leaugue": "MLS"
   },
   {
     "datum": "19-07",
