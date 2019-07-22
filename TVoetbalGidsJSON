@@ -1,42 +1,130 @@
 [
   {
-    "datum": "18-07",
-    "tijd": "01:00",
-    "thuisTeam": "Atlanta United",
-    "uitTeam": "Houston Dynamo",
+    "datum": "22-07",
+    "tijd": "18:30",
+    "thuisTeam": "VfL Wolfsburg",
+    "uitTeam": "Fenerbahce",
     "zender": "Fox Sports 4",
-    "leaugue": "MLS"
+    "leaugue": ""
   },
   {
-    "datum": "18-07",
-    "tijd": "18:00",
+    "datum": "22-07",
+    "tijd": "18:30",
     "thuisTeam": "Ajax",
-    "uitTeam": "Watford",
+    "uitTeam": "Panathinaikos",
     "zender": "Ziggo Sport",
     "leaugue": ""
   },
   {
-    "datum": "19-07",
-    "tijd": "02:00",
-    "thuisTeam": "FC Cincinnati",
-    "uitTeam": "D.C. United",
+    "datum": "22-07",
+    "tijd": "19:00",
+    "thuisTeam": "Ajax",
+    "uitTeam": "Panathinaikos",
     "zender": "Ziggo Sport",
+    "leaugue": ""
+  },
+  {
+    "datum": "23-07",
+    "tijd": "12:30",
+    "thuisTeam": "FC Barcelona",
+    "uitTeam": "Chelsea",
+    "zender": "Ziggo Sport",
+    "leaugue": ""
+  },
+  {
+    "datum": "23-07",
+    "tijd": "18:45",
+    "thuisTeam": "FC Sion",
+    "uitTeam": "Valencia",
+    "zender": "Fox Sports 4",
+    "leaugue": ""
+  },
+  {
+    "datum": "23-07",
+    "tijd": "20:00",
+    "thuisTeam": "PSV",
+    "uitTeam": "FC Basel",
+    "zender": "Veronica",
+    "leaugue": "CL"
+  },
+  {
+    "datum": "24-07",
+    "tijd": "00:15",
+    "thuisTeam": "River Plate",
+    "uitTeam": "Cruzeiro",
+    "zender": "Fox Sports 4",
+    "leaugue": ""
+  },
+  {
+    "datum": "24-07",
+    "tijd": "20:00",
+    "thuisTeam": "Feyenoord",
+    "uitTeam": "Angers",
+    "zender": "Veronica",
+    "leaugue": ""
+  },
+  {
+    "datum": "25-07",
+    "tijd": "20:00",
+    "thuisTeam": "Atlético Paranaense",
+    "uitTeam": "Boca Juniors",
+    "zender": "Fox Sports 4",
+    "leaugue": ""
+  },
+  {
+    "datum": "26-07",
+    "tijd": "02:30",
+    "thuisTeam": "Grêmio",
+    "uitTeam": "Club Libertad",
+    "zender": "Fox Sports 4",
+    "leaugue": ""
+  },
+  {
+    "datum": "26-07",
+    "tijd": "20:30",
+    "thuisTeam": "VfB Stuttgart",
+    "uitTeam": "Hannover 96",
+    "zender": "Fox Sports 4",
+    "leaugue": "BL2"
+  },
+  {
+    "datum": "27-07",
+    "tijd": "01:30",
+    "thuisTeam": "New York City FC",
+    "uitTeam": "Sporting Kansas City",
+    "zender": "Fox Sports 4",
     "leaugue": "MLS"
   },
   {
-    "datum": "19-07",
-    "tijd": "21:00",
-    "thuisTeam": "Senegal",
-    "uitTeam": "Algerije",
-    "zender": "Fox Sports 1",
-    "leaugue": "AC"
+    "datum": "27-07",
+    "tijd": "04:00",
+    "thuisTeam": "Los Angeles FC",
+    "uitTeam": "Atlanta United",
+    "zender": "Fox Sports 4",
+    "leaugue": "MLS"
   },
   {
-    "datum": "19-07",
-    "tijd": "21:00",
-    "thuisTeam": "Senegal",
-    "uitTeam": "Algerije",
+    "datum": "27-07",
+    "tijd": "13:00",
+    "thuisTeam": "Dynamo Dresden",
+    "uitTeam": "Nürnberg",
     "zender": "Fox Sports 4",
-    "leaugue": "AC"
+    "leaugue": "BL2"
+  },
+  {
+    "datum": "28-07",
+    "tijd": "13:30",
+    "thuisTeam": "HSV",
+    "uitTeam": "Darmstadt 98",
+    "zender": "Fox Sports 4",
+    "leaugue": "BL2"
+  },
+  {
+    "datum": "28-07",
+    "tijd": "18:00",
+    "thuisTeam": "Liverpool",
+    "uitTeam": "Napoli",
+    "zender": "Ziggo Sport",
+    "leaugue": ""
   }
 ]
