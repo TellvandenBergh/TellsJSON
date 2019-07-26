@@ -1,6 +1,6 @@
 [
   {
-    "date": "25-07",
+    "date": "26-07",
     "time": "16:00",
     "homeTeam": "Real Madrid",
     "awayTeam": "Juventus",
@@ -8,7 +8,7 @@
     "leaugue": "LL"
   },
   {
-    "date": "25-07",
+    "date": "26-07",
     "time": "22:00",
     "homeTeam": "Ajax",
     "awayTeam": "AZ",
@@ -16,7 +16,7 @@
     "leaugue": "ED"
   },
     {
-    "date": "23-07",
+    "date": "27-07",
     "time": "16:30",
     "homeTeam": "FC Knudde",
     "awayTeam": "Roda JC",
@@ -24,7 +24,7 @@
     "leaugue": "KD"
   },
     {
-    "date": "23-07",
+    "date": "27-07",
     "time": "12:30",
     "homeTeam": "AC Milan",
     "awayTeam": "AS Roma",
@@ -32,7 +32,7 @@
     "leaugue": "SA"
   },
     {
-    "date": "24-07",
+    "date": "28-07",
     "time": "21:00",
     "homeTeam": "Manchester United",
     "awayTeam": "Everton",
