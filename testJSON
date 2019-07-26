@@ -27,7 +27,7 @@
     "date": "28-07",
     "time": "12:00",
     "homeTeam": "Roda JC",
-    "awayTeam": "Sparta",
+    "awayTeam": "Sparta Rotterdam",
     "channel": "Fox Sports 2",
     "leaugue": "ED"
   },
@@ -69,14 +69,6 @@
     "homeTeam": "ADO Den Haag",
     "awayTeam": "PEC Zwolle",
     "channel": "Fox Sports 1",
-    "leaugue": "ED"
-  },
-  {
-    "date": "03-08",
-    "time": "21:30",
-    "homeTeam": "ADO Den Haag",
-    "awayTeam": "PEC Zwolle",
-    "channel": "Fox Sports 2",
     "leaugue": "ED"
   },
   {
@@ -177,17 +169,9 @@
   },
   {
     "date": "27-07",
-    "time": "20:30",
-    "homeTeam": "Juventus",
-    "awayTeam": "Napoli",
-    "channel": "Ziggo Sport",
-    "leaugue": "SA"
-  },
-  {
-    "date": "27-07",
     "time": "19:00",
-    "homeTeam": "Internatzionale",
-    "awayTeam": "Bologna",
+    "homeTeam": "Internazionale",
+    "awayTeam": "Cagliari",
     "channel": "Ziggo Sport Voetbal",
     "leaugue": "SA"
   },
@@ -203,7 +187,7 @@
     "date": "28-07",
     "time": "19:00",
     "homeTeam": "Atletico Madrid",
-    "awayTeam": "Granada",
+    "awayTeam": "Alaves",
     "channel": "Ziggo Sport Voetbal",
     "leaugue": "LL"
   },
@@ -233,14 +217,6 @@
   },
   {
     "date": "28-07",
-    "time": "16:00",
-    "homeTeam": "Bayern Munchen",
-    "awayTeam": "Borussia Dortmund",
-    "channel": "Fox Sports 4",
-    "leaugue": "BL"
-  },
-  {
-    "date": "28-07",
     "time": "17:00",
     "homeTeam": "Werder Bremen",
     "awayTeam": "Union Berlin",
@@ -256,23 +232,15 @@
     "leaugue": "CL"
   },
   {
-    "date": "30-07",
-    "time": "21:00",
-    "homeTeam": "Real Madrid",
-    "awayTeam": "Bayern Munchen",
-    "channel": "Veronica",
-    "leaugue": "CL"
-  },
-  {
     "date": "31-07",
     "time": "21:00",
-    "homeTeam": "Manhcester City",
+    "homeTeam": "Manchester City",
     "awayTeam": "PSG",
     "channel": "Veronica",
     "leaugue": "CL"
   },
   {
-    "date": "31-07",
+    "date": "01-08",
     "time": "21:00",
     "homeTeam": "Arsenal",
     "awayTeam": "Olympique Lyon",
@@ -280,7 +248,7 @@
     "leaugue": "EL"
   },
   {
-    "date": "01-08",
+    "date": "02-08",
     "time": "21:30",
     "homeTeam": "NAC",
     "awayTeam": "Go Ahead Eagles",
