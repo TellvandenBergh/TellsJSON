@@ -1,42 +1,298 @@
 [
   {
-    "date": "26-07",
-    "time": "16:00",
-    "homeTeam": "Real Madrid",
-    "awayTeam": "Juventus",
-    "channel": "Veronica",
-    "leaugue": "LL"
-  },
-  {
-    "date": "26-07",
-    "time": "22:00",
+    "date": "28-07",
+    "time": "14:30",
     "homeTeam": "Ajax",
-    "awayTeam": "AZ",
+    "awayTeam": "FC Utrecht",
     "channel": "Fox Sports 1",
     "leaugue": "ED"
   },
-    {
+  {
+    "date": "28-07",
+    "time": "14:30",
+    "homeTeam": "Vitesse",
+    "awayTeam": "AZ",
+    "channel": "Fox Sports 2",
+    "leaugue": "ED"
+  },
+  {
+    "date": "28-07",
+    "time": "16:00",
+    "homeTeam": "Feyenoord",
+    "awayTeam": "PSV",
+    "channel": "Fox Sports 1",
+    "leaugue": "ED"
+  },
+  {
+    "date": "28-07",
+    "time": "12:00",
+    "homeTeam": "Roda JC",
+    "awayTeam": "Sparta",
+    "channel": "Fox Sports 2",
+    "leaugue": "ED"
+  },
+  {
+    "date": "28-07",
+    "time": "13:00",
+    "homeTeam": "FC Twente",
+    "awayTeam": "SC Heerenveen",
+    "channel": "Fox Sports 3",
+    "leaugue": "ED"
+  },
+  {
+    "date": "27-07",
+    "time": "18:00",
+    "homeTeam": "Excelsior",
+    "awayTeam": "RKC Waalwijk",
+    "channel": "Fox Sports 2",
+    "leaugue": "ED"
+  },
+  {
+    "date": "27-07",
+    "time": "20:00",
+    "homeTeam": "Willem II",
+    "awayTeam": "ADO Den Haag",
+    "channel": "Fox Sports 1",
+    "leaugue": "ED"
+  },
+  {
+    "date": "27-07",
+    "time": "21:30",
+    "homeTeam": "FC Emmen",
+    "awayTeam": "PEC Zwolle",
+    "channel": "Fox Sports 1",
+    "leaugue": "ED"
+  },
+  {
+    "date": "03-08",
+    "time": "21:30",
+    "homeTeam": "ADO Den Haag",
+    "awayTeam": "PEC Zwolle",
+    "channel": "Fox Sports 1",
+    "leaugue": "ED"
+  },
+  {
+    "date": "03-08",
+    "time": "21:30",
+    "homeTeam": "ADO Den Haag",
+    "awayTeam": "PEC Zwolle",
+    "channel": "Fox Sports 2",
+    "leaugue": "ED"
+  },
+  {
+    "date": "03-08",
+    "time": "20:00",
+    "homeTeam": "AZ",
+    "awayTeam": "FC Utrecht",
+    "channel": "Fox Sports 1",
+    "leaugue": "ED"
+  },
+  {
+    "date": "03-08",
+    "time": "18:00",
+    "homeTeam": "Vitesse",
+    "awayTeam": "Excelsior",
+    "channel": "Fox Sports 2",
+    "leaugue": "ED"
+  },
+  {
+    "date": "04-08",
+    "time": "14:30",
+    "homeTeam": "Feyenoord",
+    "awayTeam": "Ajax",
+    "channel": "Fox Sports 1",
+    "leaugue": "ED"
+  },
+  {
+    "date": "04-08",
+    "time": "16:00",
+    "homeTeam": "PSV",
+    "awayTeam": "Heracles",
+    "channel": "Fox Sports 1",
+    "leaugue": "ED"
+  },
+  {
+    "date": "28-07",
+    "time": "16:00",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Liverpool",
+    "channel": "Ziggo Sport",
+    "leaugue": "PL"
+  },
+  {
+    "date": "28-07",
+    "time": "13:00",
+    "homeTeam": "Manchester City",
+    "awayTeam": "Chelsea",
+    "channel": "Ziggo Sport Voetbal",
+    "leaugue": "PL"
+  },
+  {
+    "date": "28-07",
+    "time": "15:30",
+    "homeTeam": "Arsenal",
+    "awayTeam": "Tottenham Hotspur",
+    "channel": "Ziggo Sport Voetbal",
+    "leaugue": "PL"
+  },
+  {
+    "date": "28-07",
+    "time": "15:30",
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Watford",
+    "channel": "Ziggo Sport Golf",
+    "leaugue": "PL"
+  },
+  {
     "date": "27-07",
     "time": "16:30",
-    "homeTeam": "FC Knudde",
-    "awayTeam": "Roda JC",
-    "channel": "Ziggo Sport",
-    "leaugue": "KD"
+    "homeTeam": "West Ham United",
+    "awayTeam": "Crystal Palace",
+    "channel": "Ziggo Sport Extra",
+    "leaugue": "PL"
   },
-    {
+  {
     "date": "27-07",
-    "time": "12:30",
-    "homeTeam": "AC Milan",
-    "awayTeam": "AS Roma",
+    "time": "18:30",
+    "homeTeam": "Espanyol",
+    "awayTeam": "Valencia",
+    "channel": "Ziggo Sport Voetbal",
+    "leaugue": "LL"
+  },
+  {
+    "date": "27-07",
+    "time": "19:30",
+    "homeTeam": "Villarreal",
+    "awayTeam": "Levante",
+    "channel": "Ziggo Sport Docu",
+    "leaugue": "LL"
+  },
+  {
+    "date": "27-07",
+    "time": "20:30",
+    "homeTeam": "Juventus",
+    "awayTeam": "Napoli",
+    "channel": "Ziggo Sport",
+    "leaugue": "SA"
+  },
+  {
+    "date": "27-07",
+    "time": "20:30",
+    "homeTeam": "Juventus",
+    "awayTeam": "Napoli",
+    "channel": "Ziggo Sport",
+    "leaugue": "SA"
+  },
+  {
+    "date": "27-07",
+    "time": "19:00",
+    "homeTeam": "Internatzionale",
+    "awayTeam": "Bologna",
     "channel": "Ziggo Sport Voetbal",
     "leaugue": "SA"
   },
-    {
+  {
     "date": "28-07",
-    "time": "21:00",
-    "homeTeam": "Manchester United",
-    "awayTeam": "Everton",
-    "channel": "Fox Sports 5",
-    "leaugue": "PL"
+    "time": "20:00",
+    "homeTeam": "FC Barcelona",
+    "awayTeam": "Real Madrid",
+    "channel": "Ziggo Sport",
+    "leaugue": "LL"
   },
+  {
+    "date": "28-07",
+    "time": "19:00",
+    "homeTeam": "Atletico Madrid",
+    "awayTeam": "Granada",
+    "channel": "Ziggo Sport Voetbal",
+    "leaugue": "LL"
+  },
+  {
+    "date": "27-07",
+    "time": "14:00",
+    "homeTeam": "Schalke 04",
+    "awayTeam": "Hertha BSC",
+    "channel": "Fox Sports 4",
+    "leaugue": "BL"
+  },
+  {
+    "date": "27-07",
+    "time": "16:00",
+    "homeTeam": "VfL Wolfsburg",
+    "awayTeam": "VfB Stuttgart",
+    "channel": "Fox Sports 5",
+    "leaugue": "BL"
+  },
+  {
+    "date": "28-07",
+    "time": "16:00",
+    "homeTeam": "Bayern Munchen",
+    "awayTeam": "Borussia Dortmund",
+    "channel": "Fox Sports 4",
+    "leaugue": "BL"
+  },
+  {
+    "date": "28-07",
+    "time": "16:00",
+    "homeTeam": "Bayern Munchen",
+    "awayTeam": "Borussia Dortmund",
+    "channel": "Fox Sports 4",
+    "leaugue": "BL"
+  },
+  {
+    "date": "28-07",
+    "time": "17:00",
+    "homeTeam": "Werder Bremen",
+    "awayTeam": "Union Berlin",
+    "channel": "Fox Sports 6",
+    "leaugue": "BL"
+  },
+  {
+    "date": "30-07",
+    "time": "21:00",
+    "homeTeam": "Real Madrid",
+    "awayTeam": "Bayern Munchen",
+    "channel": "Veronica",
+    "leaugue": "CL"
+  },
+  {
+    "date": "30-07",
+    "time": "21:00",
+    "homeTeam": "Real Madrid",
+    "awayTeam": "Bayern Munchen",
+    "channel": "Veronica",
+    "leaugue": "CL"
+  },
+  {
+    "date": "31-07",
+    "time": "21:00",
+    "homeTeam": "Manhcester City",
+    "awayTeam": "PSG",
+    "channel": "Veronica",
+    "leaugue": "CL"
+  },
+  {
+    "date": "31-07",
+    "time": "21:00",
+    "homeTeam": "Arsenal",
+    "awayTeam": "Olympique Lyon",
+    "channel": "RTL 7",
+    "leaugue": "EL"
+  },
+  {
+    "date": "01-08",
+    "time": "21:30",
+    "homeTeam": "NAC",
+    "awayTeam": "Go Ahead Eagles",
+    "channel": "Fox Sports 1",
+    "leaugue": "KD"
+  },
+  {
+    "date": "02-08",
+    "time": "01:30",
+    "homeTeam": "LA Galaxy",
+    "awayTeam": "Los Angeles FC",
+    "channel": "Fox Sports 4",
+    "leaugue": "MLS"
+  }
 ]
