@@ -1,117 +1,5 @@
 [
   {
-    "datum": "22-07",
-    "tijd": "18:30",
-    "thuisTeam": "VfL Wolfsburg",
-    "uitTeam": "Fenerbahce",
-    "zender": "Fox Sports 4",
-    "leaugue": ""
-  },
-  {
-    "datum": "22-07",
-    "tijd": "18:30",
-    "thuisTeam": "Ajax",
-    "uitTeam": "Panathinaikos",
-    "zender": "Ziggo Sport",
-    "leaugue": ""
-  },
-  {
-    "datum": "22-07",
-    "tijd": "19:00",
-    "thuisTeam": "Ajax",
-    "uitTeam": "Panathinaikos",
-    "zender": "Ziggo Sport",
-    "leaugue": ""
-  },
-  {
-    "datum": "23-07",
-    "tijd": "12:30",
-    "thuisTeam": "FC Barcelona",
-    "uitTeam": "Chelsea",
-    "zender": "Ziggo Sport",
-    "leaugue": ""
-  },
-  {
-    "datum": "23-07",
-    "tijd": "18:45",
-    "thuisTeam": "FC Sion",
-    "uitTeam": "Valencia",
-    "zender": "Fox Sports 4",
-    "leaugue": ""
-  },
-  {
-    "datum": "23-07",
-    "tijd": "20:00",
-    "thuisTeam": "PSV",
-    "uitTeam": "FC Basel",
-    "zender": "Veronica",
-    "leaugue": "CL"
-  },
-  {
-    "datum": "24-07",
-    "tijd": "00:15",
-    "thuisTeam": "River Plate",
-    "uitTeam": "Cruzeiro",
-    "zender": "Fox Sports 4",
-    "leaugue": ""
-  },
-  {
-    "datum": "24-07",
-    "tijd": "20:00",
-    "thuisTeam": "Feyenoord",
-    "uitTeam": "Angers",
-    "zender": "Veronica",
-    "leaugue": ""
-  },
-  {
-    "datum": "25-07",
-    "tijd": "20:00",
-    "thuisTeam": "Atlético Paranaense",
-    "uitTeam": "Boca Juniors",
-    "zender": "Fox Sports 4",
-    "leaugue": ""
-  },
-  {
-    "datum": "26-07",
-    "tijd": "02:30",
-    "thuisTeam": "Grêmio",
-    "uitTeam": "Club Libertad",
-    "zender": "Fox Sports 4",
-    "leaugue": ""
-  },
-  {
-    "datum": "26-07",
-    "tijd": "20:30",
-    "thuisTeam": "VfB Stuttgart",
-    "uitTeam": "Hannover 96",
-    "zender": "Fox Sports 4",
-    "leaugue": "BL2"
-  },
-  {
-    "datum": "27-07",
-    "tijd": "01:30",
-    "thuisTeam": "New York City FC",
-    "uitTeam": "Sporting Kansas City",
-    "zender": "Fox Sports 4",
-    "leaugue": "MLS"
-  },
-  {
-    "datum": "27-07",
-    "tijd": "04:00",
-    "thuisTeam": "Los Angeles FC",
-    "uitTeam": "Atlanta United",
-    "zender": "Fox Sports 4",
-    "leaugue": "MLS"
-  },
-  {
-    "datum": "27-07",
-    "tijd": "13:00",
-    "thuisTeam": "Dynamo Dresden",
-    "uitTeam": "Nürnberg",
-    "zender": "Fox Sports 4",
-    "leaugue": "BL2"
-  },
-  {
     "datum": "28-07",
     "tijd": "13:30",
     "thuisTeam": "HSV",
@@ -124,6 +12,94 @@
     "tijd": "18:00",
     "thuisTeam": "Liverpool",
     "uitTeam": "Napoli",
+    "zender": "Ziggo Sport",
+    "leaugue": ""
+  },
+  {
+    "datum": "28-07",
+    "tijd": "14:30",
+    "thuisTeam": "Feyenoord",
+    "uitTeam": "Southampton",
+    "zender": "Fox Sports 1",
+    "leaugue": ""
+  },
+  {
+    "datum": "28-07",
+    "tijd": "14:30",
+    "thuisTeam": "Anderlecht",
+    "uitTeam": "K.V. Oostende",
+    "zender": "Ziggo Sport Voetbal",
+    "leaugue": "JP"
+  },
+  {
+    "datum": "28-07",
+    "tijd": "16:15",
+    "thuisTeam": "Arsenal",
+    "uitTeam": "Olympique Lyonnais",
+    "zender": "Fox Sports 4",
+    "leaugue": ""
+  },
+  {
+    "datum": "29-07",
+    "tijd": "18:00",
+    "thuisTeam": "Schalke 04",
+    "uitTeam": "Bologna F.C.",
+    "zender": "Fox Sports 4",
+    "leaugue": ""
+  },
+  {
+    "datum": "29-07",
+    "tijd": "18:00",
+    "thuisTeam": "Arminia Bielefeld",
+    "uitTeam": "FC Sankt Pauli",
+    "zender": "Fox Sports 4",
+    "leaugue": "BL2"
+  },
+  {
+    "datum": "29-07",
+    "tijd": "20:00",
+    "thuisTeam": "FC Basel",
+    "uitTeam": "PSV",
+    "zender": "Veronica",
+    "leaugue": "CL"
+  },
+  {
+    "datum": "30-07",
+    "tijd": "17:55",
+    "thuisTeam": "Real Madrid",
+    "uitTeam": "Tottenham Hotspur",
+    "zender": "Fox Sports 4",
+    "leaugue": ""
+  },
+  {
+    "datum": "30-07",
+    "tijd": "20:25",
+    "thuisTeam": "Bayern Munchen",
+    "uitTeam": "Fenerbahce",
+    "zender": "Fox Sports 4",
+    "leaugue": ""
+  },
+  {
+    "datum": "02-08",
+    "tijd": "17:55",
+    "thuisTeam": "Schalke 04",
+    "uitTeam": "Villarreal",
+    "zender": "Fox Sports 4",
+    "leaugue": ""
+  },
+  {
+    "datum": "02-08",
+    "tijd": "20:00",
+    "thuisTeam": "PEC Zwolle",
+    "uitTeam": "Willem II",
+    "zender": "Fox Sports 1",
+    "leaugue": "ED"
+  },
+  {
+    "datum": "31-07",
+    "tijd": "18:55",
+    "thuisTeam": "Liverpool",
+    "uitTeam": "Olympique Lyon",
     "zender": "Ziggo Sport",
     "leaugue": ""
   }
