@@ -40,22 +40,6 @@
     "leaugue": "CL"
   },
   {
-    "datum": "06-08",
-    "tijd": "19:00",
-    "thuisTeam": "PAOK Thessaloniki",
-    "uitTeam": "Ajax",
-    "zender": "Ziggo Sport",
-    "leaugue": "CL"
-  },
-  {
-    "datum": "09-08",
-    "tijd": "20:15",
-    "thuisTeam": "Liverpool",
-    "uitTeam": "Norwich City",
-    "zender": "Ziggo Sport",
-    "leaugue": "PL"
-  },
-  {
     "datum": "09-08",
     "tijd": "20:15",
     "thuisTeam": "Liverpool",
@@ -162,7 +146,7 @@
   {
     "datum": "12-08",
     "tijd": "20:00",
-    "thuisTeam": "Jong PSV",
+    "thuisTeam": "PSV",
     "uitTeam": "FC Den Bosch",
     "zender": "Fox Sports 1",
     "leaugue": "KD"
@@ -227,7 +211,7 @@
     "datum": "11-08",
     "tijd": "20:45",
     "thuisTeam": "CS Marítimo",
-    "uitTeam": "Sporting CP",
+    "uitTeam": "Sporting Lissabon",
     "zender": "Ziggo Sport",
     "leaugue": ""
   },
