@@ -1,149 +1,5 @@
 [
   {
-    "datum": "07-08",
-    "tijd": "18:55",
-    "thuisTeam": "RB Leipzig",
-    "uitTeam": "Real Madrid",
-    "zender": "Fox Sports 4",
-    "leaugue": ""
-  },
-  {
-    "datum": "09-08",
-    "tijd": "01:00",
-    "thuisTeam": "New York City FC",
-    "uitTeam": "Houston Dynamo",
-    "zender": "Fox Sports 4",
-    "leaugue": "MLS"
-  },
-  {
-    "datum": "09-08",
-    "tijd": "19:50",
-    "thuisTeam": "De Graafschap",
-    "uitTeam": "SC Cambuur",
-    "zender": "Fox Sports 3",
-    "leaugue": "KD"
-  },
-  {
-    "datum": "09-08",
-    "tijd": "20:00",
-    "thuisTeam": "Sparta Rotterdam",
-    "uitTeam": "VVV Venlo",
-    "zender": "Fox Sports 2",
-    "leaugue": "ED"
-  },
-  {
-    "datum": "06-08",
-    "tijd": "18:30",
-    "thuisTeam": "PAOK Thessaloniki",
-    "uitTeam": "Ajax",
-    "zender": "Ziggo Sport",
-    "leaugue": "CL"
-  },
-  {
-    "datum": "09-08",
-    "tijd": "20:15",
-    "thuisTeam": "Liverpool",
-    "uitTeam": "Norwich City",
-    "zender": "Ziggo Sport",
-    "leaugue": "PL"
-  },
-  {
-    "datum": "10-08",
-    "tijd": "18:30",
-    "thuisTeam": "FC Groningen",
-    "uitTeam": "FC Twente",
-    "zender": "Fox Sports 2",
-    "leaugue": "ED"
-  },
-  {
-    "datum": "10-08",
-    "tijd": "18:30",
-    "thuisTeam": "Ajax",
-    "uitTeam": "FC Emmen",
-    "zender": "Fox Sports 1",
-    "leaugue": "ED"
-  },
-  {
-    "datum": "10-08",
-    "tijd": "20:45",
-    "thuisTeam": "Willem II",
-    "uitTeam": "Vitesse",
-    "zender": "Fox Sports 2",
-    "leaugue": "ED"
-  },
-  {
-    "datum": "10-08",
-    "tijd": "22:00",
-    "thuisTeam": "Seattle Sounders FC",
-    "uitTeam": "New England Revolution",
-    "zender": "Fox Sports 4",
-    "leaugue": "MLS"
-  },
-  {
-    "datum": "11-08",
-    "tijd": "01:30",
-    "thuisTeam": "Columbus Crew SC",
-    "uitTeam": "FC Cincinnati",
-    "zender": "Fox Sports 4",
-    "leaugue": "MLS"
-  },
-  {
-    "datum": "11-08",
-    "tijd": "12:15",
-    "thuisTeam": "Fortuna Sittard",
-    "uitTeam": "Heracles",
-    "zender": "Fox Sports 2",
-    "leaugue": "ED"
-  },
-  {
-    "datum": "11-08",
-    "tijd": "14:30",
-    "thuisTeam": "SC Heerenveen",
-    "uitTeam": "Feyenoord",
-    "zender": "Fox Sports 2",
-    "leaugue": "ED"
-  },
-  {
-    "datum": "11-08",
-    "tijd": "14:30",
-    "thuisTeam": "RKC Waalwijk",
-    "uitTeam": "AZ",
-    "zender": "Fox Sports 3",
-    "leaugue": "ED"
-  },
-  {
-    "datum": "11-08",
-    "tijd": "16:45",
-    "thuisTeam": "FC Utrecht",
-    "uitTeam": "PEC Zwolle",
-    "zender": "Fox Sports 1",
-    "leaugue": "ED"
-  },
-  {
-    "datum": "11-08",
-    "tijd": "20:00",
-    "thuisTeam": "PSV",
-    "uitTeam": "ADO Den Haag",
-    "zender": "Fox Sports 1",
-    "leaugue": "ED"
-  },
-  {
-    "datum": "11-08",
-    "tijd": "22:00",
-    "thuisTeam": "Atlanta United",
-    "uitTeam": "New York City FC",
-    "zender": "Fox Sports 4",
-    "leaugue": "MLS"
-  },
-  {
-    "datum": "12-08",
-    "tijd": "01:45",
-    "thuisTeam": "D.C. United",
-    "uitTeam": "LA Galaxy",
-    "zender": "Fox Sports 4",
-    "leaugue": "MLS"
-  },
-  {
     "datum": "12-08",
     "tijd": "20:00",
     "thuisTeam": "PSV",
@@ -152,99 +8,59 @@
     "leaugue": "KD"
   },
   {
-    "datum": "10-08",
-    "tijd": "13:05",
-    "thuisTeam": "West Ham United",
-    "uitTeam": "Manchester City",
-    "zender": "Ziggo Sport",
-    "leaugue": "PL"
-  },
-  {
-    "datum": "10-08",
-    "tijd": "15:50",
-    "thuisTeam": "Everton",
-    "uitTeam": "Crystal Palace",
-    "zender": "Ziggo Sport",
-    "leaugue": "PL"
-  },
-  {
-    "datum": "10-08",
-    "tijd": "18:05",
-    "thuisTeam": "Tottenham Hotspur",
-    "uitTeam": "Aston Villa",
-    "zender": "Ziggo Sport",
-    "leaugue": "PL"
-  },
-  {
-    "datum": "10-08",
-    "tijd": "22:55",
-    "thuisTeam": "FC Barcelona",
-    "uitTeam": "Napoli",
-    "zender": "Ziggo Sport",
-    "leaugue": ""
-  },
-  {
-    "datum": "10-08",
-    "tijd": "22:25",
-    "thuisTeam": "Benfica",
-    "uitTeam": "FC Paços de Ferreira",
-    "zender": "Ziggo Sport Voetbal",
-    "leaugue": ""
-  },
-  {
-    "datum": "11-08",
-    "tijd": "14:35",
-    "thuisTeam": "Newcastle United",
-    "uitTeam": "Arsenal",
-    "zender": "Ziggo Sport",
-    "leaugue": "PL"
-  },
-  {
-    "datum": "11-08",
-    "tijd": "17:00",
-    "thuisTeam": "Manchester United",
-    "uitTeam": "Chelsea",
-    "zender": "Ziggo Sport",
-    "leaugue": "PL"
-  },
-  {
-    "datum": "11-08",
+    "datum": "12-08",
     "tijd": "20:45",
-    "thuisTeam": "CS Marítimo",
-    "uitTeam": "Sporting Lissabon",
-    "zender": "Ziggo Sport",
-    "leaugue": ""
-  },
-  {
-    "datum": "11-08",
-    "tijd": "14:25",
-    "thuisTeam": "Sint-Truidense V.V.",
-    "uitTeam": "Standard Luik",
-    "zender": "Ziggo Sport Voetbal",
-    "leaugue": "JP"
-  },
-  {
-    "datum": "11-08",
-    "tijd": "19:25",
-    "thuisTeam": "CS Marítimo",
-    "uitTeam": "Sporting Lissabon",
-    "zender": "Ziggo Sport Voetbal",
-    "leaugue": ""
+    "thuisTeam": "Energie Cottbus",
+    "uitTeam": "Bayern Munchen",
+    "zender": "ARD",
+    "leaugue": "DFB"
   },
   {
     "datum": "13-08",
-    "tijd": "20:00",
+    "tijd": "20:30",
     "thuisTeam": "Ajax",
     "uitTeam": "PAOK Thessaloniki",
     "zender": "Ziggo Sport",
     "leaugue": "CL"
   },
   {
-    "datum": "08-08",
-    "tijd": "19:30",
-    "thuisTeam": "Feyenoord",
-    "uitTeam": "Dinamo Tibilsi",
+    "datum": "14-08",
+    "tijd": "21:00",
+    "thuisTeam": "Liverpool",
+    "uitTeam": "Chelsea",
     "zender": "Veronica",
+    "leaugue": "CL"
+  },
+  {
+    "datum": "15-08",
+    "tijd": "18:30",
+    "thuisTeam": "FC Dinamo Tbilisi",
+    "uitTeam": "Feyenoord",
+    "zender": "Veronica",
+    "leaugue": "EL"
+  },
+  {
+    "datum": "15-08",
+    "tijd": "20:30",
+    "thuisTeam": "PSV",
+    "uitTeam": "FK Haugesund",
+    "zender": "Veronica",
+    "leaugue": "EL"
+  },
+  {
+    "datum": "15-08",
+    "tijd": "20:30",
+    "thuisTeam": "AZ",
+    "uitTeam": "FC Illichivets Mariupol",
+    "zender": "SBS 9",
+    "leaugue": "EL"
+  },
+  {
+    "datum": "15-08",
+    "tijd": "20:30",
+    "thuisTeam": "AZ",
+    "uitTeam": "FC Illichivets Mariupol",
+    "zender": "SBS 9",
     "leaugue": "EL"
   }
 ]
