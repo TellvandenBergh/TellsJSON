@@ -1,6 +1,6 @@
 [
   {
-    "datum": "19-08",
+    "datum": "04-11",
     "tijd": "20:00",
     "thuisTeam": "Ajax",
     "uitTeam": "NEC",
@@ -8,7 +8,7 @@
     "leaugue": "KD"
   },
   {
-    "datum": "19-08",
+    "datum": "04-11",
     "tijd": "20:30",
     "thuisTeam": "VfL Osnabrück",
     "uitTeam": "Darmstadt 98",
@@ -16,7 +16,7 @@
     "leaugue": "BL2"
   },
   {
-    "datum": "19-08",
+    "datum": "04-11",
     "tijd": "21:00",
     "thuisTeam": "Wolverhampton Wanderers",
     "uitTeam": "Manchester United",
@@ -24,7 +24,7 @@
     "leaugue": "PL"
   },
   {
-    "datum": "20-08",
+    "datum": "04-11",
     "tijd": "21:00",
     "thuisTeam": "LASK Linz",
     "uitTeam": "Club Brugge",
@@ -32,7 +32,7 @@
     "leaugue": "CL"
   },
   {
-    "datum": "20-08",
+    "datum": "04-11",
     "tijd": "21:00",
     "thuisTeam": "APOEL Nicosia",
     "uitTeam": "Ajax",
@@ -40,7 +40,7 @@
     "leaugue": "CL"
   },
   {
-    "datum": "22-08",
+    "datum": "04-11",
     "tijd": "00:15",
     "thuisTeam": "LDU Quito",
     "uitTeam": "Boca Juniors",
@@ -48,7 +48,7 @@
     "leaugue": ""
   },
   {
-    "datum": "22-08",
+    "datum": "05-11",
     "tijd": "00:15",
     "thuisTeam": "LDU Quito",
     "uitTeam": "Boca Juniors",
@@ -56,7 +56,7 @@
     "leaugue": ""
   },
   {
-    "datum": "22-08",
+    "datum": "05-11",
     "tijd": "02:30",
     "thuisTeam": "CR Flamengo",
     "uitTeam": "SC International",
@@ -64,7 +64,7 @@
     "leaugue": ""
   },
   {
-    "datum": "22-08",
+    "datum": "05-11",
     "tijd": "21:00",
     "thuisTeam": "Young Boys",
     "uitTeam": "Red Star Belgrade",
@@ -72,19 +72,19 @@
     "leaugue": "CL"
   },
   {
-    "datum": "22-08",
+    "datum": "06-11",
     "tijd": "21:00",
-    "thuisTeam": "Olympiakos Piraeus",
-    "uitTeam": "FK Krasnodar",
+    "thuisTeam": "Chelsea",
+    "uitTeam": "Ajax",
     "zender": "Veronica",
     "leaugue": "CL"
   },
   {
-    "datum": "22-08",
-    "tijd": "02:30",
-    "thuisTeam": "Dinamo Zagreb",
-    "uitTeam": "Rosenborg BK",
-    "zender": "Ziggo Sport Extra",
+    "datum": "06-11",
+    "tijd": "21:00",
+    "thuisTeam": "Real Madrid",
+    "uitTeam": "Juventus",
+    "zender": "Veronica",
     "leaugue": "CL"
   }
 ]
