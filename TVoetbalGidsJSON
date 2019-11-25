@@ -1,6 +1,6 @@
 [
   {
-    "datum": "08-11",
+    "datum": "25-11",
     "tijd": "20:00",
     "thuisTeam": "Ajax",
     "uitTeam": "NEC",
@@ -8,7 +8,7 @@
     "leaugue": "KD"
   },
   {
-    "datum": "08-11",
+    "datum": "25-11",
     "tijd": "20:30",
     "thuisTeam": "VfL Osnabrück",
     "uitTeam": "Darmstadt 98",
@@ -16,7 +16,7 @@
     "leaugue": "BL2"
   },
   {
-    "datum": "08-11",
+    "datum": "25-11",
     "tijd": "21:00",
     "thuisTeam": "Wolverhampton Wanderers",
     "uitTeam": "Manchester United",
@@ -24,7 +24,7 @@
     "leaugue": "PL"
   },
   {
-    "datum": "08-11",
+    "datum": "25-11",
     "tijd": "21:00",
     "thuisTeam": "LASK Linz",
     "uitTeam": "Club Brugge",
@@ -32,7 +32,7 @@
     "leaugue": "CL"
   },
   {
-    "datum": "09-11",
+    "datum": "26-11",
     "tijd": "21:00",
     "thuisTeam": "APOEL Nicosia",
     "uitTeam": "Ajax",
@@ -40,7 +40,7 @@
     "leaugue": "CL"
   },
   {
-    "datum": "09-11",
+    "datum": "26-11",
     "tijd": "00:15",
     "thuisTeam": "LDU Quito",
     "uitTeam": "Boca Juniors",
@@ -48,7 +48,7 @@
     "leaugue": ""
   },
   {
-    "datum": "10-11",
+    "datum": "26-11",
     "tijd": "02:30",
     "thuisTeam": "CR Flamengo",
     "uitTeam": "SC International",
@@ -56,7 +56,7 @@
     "leaugue": ""
   },
   {
-    "datum": "10-11",
+    "datum": "26-11",
     "tijd": "21:00",
     "thuisTeam": "Young Boys",
     "uitTeam": "Red Star Belgrade",
@@ -64,7 +64,7 @@
     "leaugue": "CL"
   },
   {
-    "datum": "12-11",
+    "datum": "27-11",
     "tijd": "21:00",
     "thuisTeam": "Chelsea",
     "uitTeam": "Ajax",
@@ -72,7 +72,7 @@
     "leaugue": "CL"
   },
   {
-    "datum": "12-11",
+    "datum": "27-11",
     "tijd": "21:00",
     "thuisTeam": "Real Madrid",
     "uitTeam": "Juventus",
@@ -80,7 +80,7 @@
     "leaugue": "CL"
   },
     {
-    "datum": "13-11",
+    "datum": "27-11",
     "tijd": "20:00",
     "thuisTeam": "PSV",
     "uitTeam": "AZ",
@@ -88,7 +88,7 @@
     "leaugue": "ED"
   },
   {
-    "datum": "14-11",
+    "datum": "27-11",
     "tijd": "20:30",
     "thuisTeam": "Juventus",
     "uitTeam": "AS Roma",
@@ -96,7 +96,7 @@
     "leaugue": "SA"
   },
   {
-    "datum": "17-11",
+    "datum": "28-11",
     "tijd": "21:00",
     "thuisTeam": "Arsenal",
     "uitTeam": "Manchester United",
@@ -104,7 +104,7 @@
     "leaugue": "PL"
   },
   {
-    "datum": "17-11",
+    "datum": "28-11",
     "tijd": "15:00",
     "thuisTeam": "Liverpool",
     "uitTeam": "Everton",
@@ -112,7 +112,7 @@
     "leaugue": "PL"
   },
   {
-    "datum": "17-11",
+    "datum": "28-11",
     "tijd": "21:00",
     "thuisTeam": "Real Madrid",
     "uitTeam": "FC Barcelona",
@@ -120,7 +120,7 @@
     "leaugue": "LL"
   },
   {
-    "datum": "19-11",
+    "datum": 29-11",
     "tijd": "00:15",
     "thuisTeam": "LDU Quito",
     "uitTeam": "Boca Juniors",
@@ -128,7 +128,7 @@
     "leaugue": ""
   },
   {
-    "datum": "18-11",
+    "datum": "29-11",
     "tijd": "02:30",
     "thuisTeam": "CR Flamengo",
     "uitTeam": "SC International",
@@ -136,7 +136,7 @@
     "leaugue": ""
   },
   {
-    "datum": "19-11",
+    "datum": "29-11",
     "tijd": "21:00",
     "thuisTeam": "Young Boys",
     "uitTeam": "Red Star Belgrade",
@@ -144,7 +144,7 @@
     "leaugue": "CL"
   },
   {
-    "datum": "19-11",
+    "datum": "30-11",
     "tijd": "21:00",
     "thuisTeam": "Chelsea",
     "uitTeam": "Ajax",
@@ -152,7 +152,7 @@
     "leaugue": "CL"
   },
   {
-    "datum": "20-11",
+    "datum": "30-11",
     "tijd": "21:00",
     "thuisTeam": "Real Madrid",
     "uitTeam": "Juventus",
